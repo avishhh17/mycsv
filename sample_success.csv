@@ -1,0 +1,2229 @@
+TYPE,CUSTOMER,COMPLEXITY,PRODUCT,ROUNDS,MACHINE,PROD SITE,NECK,STITCH,YARN,ORDER
+CNT,Bonobo Planet,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Markham,B,Pullover,1,HF,US1,Turtle Neck,Jersey,COTTON,N
+CNT,Markham,B,Pullover,2,AUTO,ANS,Turtle Neck,Jersey,COTTON,N
+APR,Markham,B,Pullover,3,HF,US1,Turtle Neck,Jersey,COTTON,Y
+APR,Markham,B,Pullover,4,HF,US1,Turtle Neck,Jersey,COTTON,N
+CNT,Zadig & Voltaire,C2,Cardigan,1,AUTO,FKL,Hood,Rib,CASHMERE,N
+APR,Zadig & Voltaire,C2,Cardigan,2,AUTO,FKL,Hood,Rib,CASHMERE,Y
+APR,Woolworths (Pty) Ltd,B,Cardigan,1,AUTO,FKL,Shawl Collar,Jersey,MERINO,N
+APR,Lacoste,C1,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON,Y
+APR,Lacoste,C1,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON,Y
+APR,Lacoste,C1,Pullover,1,AUTO,FKL,Crew Neck,Tuck,COTTON_BLENDS,Y
+APR,Tailored Brand,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,WOOL_BLENDS,Y
+APR,Tailored Brand,C1,Pullover,2,AUTO,ANS,Crew Neck,Jersey,WOOL_BLENDS,N
+APR,Tailored Brand,B,Pullover,1,HF,US1,Turtle Neck,Jersey,MERINO_BLENDS,Y
+APR,Tailored Brand,C1,Pullover,2,HF,US1,Turtle Neck,Jersey,MERINO_BLENDS,N
+CNT,Tailored Brand,C1,Pullover,1,AUTO,ANS,High Crew Neck,Cable/Aran,WOOL_BLENDS,N
+APR,Tailored Brand,C1,Pullover,2,AUTO,ANS,High Crew Neck,Cable/Aran,WOOL_BLENDS,N
+APR,Tailored Brand,C2,Pullover,3,AUTO,ANS,High Crew Neck,Cable/Aran,WOOL_BLENDS,Y
+APR,Tailored Brand,C2,Pullover,4,AUTO,ANS,High Crew Neck,Cable/Aran,WOOL_BLENDS,N
+APR,Cape Union Mart,C1,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+APR,Cape Union Mart,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Cape Union Mart,B,Pullover,3,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Cape Union Mart,B,Pullover,4,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Cape Union Mart,B,Pullover,5,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,RODD & GUNN,C1,Pullover,1,AUTO,ANS,High Crew Neck,Tuck,LAMBSWOOL,Y
+APR,RODD & GUNN,C1,Pullover,2,AUTO,ANS,High Crew Neck,Tuck,LAMBSWOOL,N
+APR,RODD & GUNN,C1,Pullover,3,AUTO,ANS,High Crew Neck,Tuck,LAMBSWOOL,N
+APR,RODD & GUNN,C1,Pullover,4,AUTO,ANS,High Crew Neck,Tuck,LAMBSWOOL,N
+APR,RODD & GUNN,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,COTTON,N
+CNT,Tailored Brand,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,MERINO_BLENDS,N
+APR,Salsa,B,Pullover,1,AUTO,AJX,Crew Neck,Jacquard,COTTON,N
+APR,Salsa,B,Pullover,2,AUTO,AJX,Crew Neck,Jacquard,COTTON,Y
+APR,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,V-Neck,Jersey,COTTON,N
+APR,Zadig & Voltaire,C1,Pullover,2,AUTO,FKL,V-Neck,Jersey,COTTON,N
+APR,Zadig & Voltaire,C1,Pullover,3,AUTO,FKL,V-Neck,Jersey,COTTON,N
+APR,Zadig & Voltaire,C1,Pullover,4,AUTO,ANS,V-Neck,Jersey,COTTON,Y
+CNT,Salsa,B,Pullover,1,AUTO,AJX,Crew Neck,Knit/purl,COTTON,Y
+APR,Salsa,B,Pullover,2,AUTO,AJX,Crew Neck,Knit/purl,COTTON,N
+APR,Salsa,B,Pullover,3,AUTO,AJX,Crew Neck,Knit/purl,COTTON,Y
+APR,Salsa,B,Pullover,4,AUTO,AJX,Crew Neck,Knit/purl,COTTON,N
+APR,Salsa,B,Pullover,5,AUTO,AJX,Crew Neck,Knit/purl,COTTON,N
+APR,Zadig & Voltaire,B,Pullover,1,AUTO,ANS,Crew Neck,Double bed,COTTON,N
+APR,Zadig & Voltaire,C1,Pullover,2,AUTO,ANS,Crew Neck,Double bed,COTTON,Y
+CNT,Tailored Brand,C1,Cardigan,1,AUTO,ANS,Shawl Collar,Tuck,WOOL_BLENDS,N
+CNT,Tailored Brand,C1,Cardigan,2,AUTO,ANS,Shawl Collar,Tuck,WOOL_BLENDS,N
+APR,Tailored Brand,C1,Cardigan,3,AUTO,ANS,Shawl Collar,Tuck,WOOL_BLENDS,N
+APR,Zadig & Voltaire,C1,Cardigan,1,AUTO,ANS,V-Neck,Jersey,CASHMERE,Y
+APR,Zadig & Voltaire,C2,Cardigan,1,AUTO,ANS,Hood,Double bed,COTTON,Y
+APR,Markham,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Markham,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+APR,Markham,C1,Pullover,3,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Markham,B,Pullover,4,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+CNT,Markham,B,Pullover,5,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Markham,B,Pullover,6,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,LEMAKA,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,LEMAKA,B,Pullover,2,HF,US1,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Cape Union Mart,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,COTTON,N
+APR,Cape Union Mart,B,Pullover,2,AUTO,ANS,Crew Neck,Knit/purl,COTTON,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC,N
+APR,Tailored Brand,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,LAMBSWOOL_BLENDS,N
+APR,Tailored Brand,C1,Pullover,2,AUTO,ANS,Crew Neck,Jacquard,LAMBSWOOL_BLENDS,Y
+APR,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,High Crew Neck,Double bed,LAMBSWOOL,Y
+APR,Zadig & Voltaire,C1,Pullover,2,AUTO,ANS,High Crew Neck,Double bed,LAMBSWOOL,N
+APR,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,V-Neck,Double bed,LAMBSWOOL,Y
+APR,Cape Union Mart,B,Pullover,1,HF,US1,V-Neck,Jersey,COTTON,Y
+APR,Cape Union Mart,B,Pullover,2,HF,US1,V-Neck,Jersey,COTTON,N
+APR,Tailored Brand,C1,Pullover,1,HF,US1,Rugby collar,Jersey,LAMBSWOOL,N
+APR,Zadig & Voltaire,B,Pullover,1,AUTO,FKL,V-Neck,Jersey,CASHMERE,Y
+APR,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,Crew Neck,Plating,MERINO,Y
+CNT,Celio International SA,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Marks & Spencer Plc,C2,Cardigan,1,AUTO,ANS,GrandDad Collar,Jersey,LAMBSWOOL_BLENDS,N
+APR,Zadig & Voltaire,C2,Cardigan,1,AUTO,ANS,Hood,Jersey,CASHMERE,Y
+APR,Zadig & Voltaire,C2,Cardigan,2,AUTO,ANS,Hood,Jersey,CASHMERE,N
+APR,Zadig & Voltaire,C2,Cardigan,1,AUTO,FKL,V-Neck,Jersey,CASHMERE,Y
+APR,Salsa,C1,Pullover,1,AUTO,AJX,Crew Neck,Cable/Aran,COTTON,Y
+APR,Sacoor,B,Pullover,1,AUTO,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Sacoor,C1,Pullover,1,AUTO,AJX,V-Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,CASHMERE,Y
+APR,Zadig & Voltaire,C1,Pullover,2,AUTO,ANS,Crew Neck,Jersey,CASHMERE,N
+APR,Sacoor,C1,Pullover,1,AUTO,AJX,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Sacoor,C1,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Sacoor,C1,Pullover,3,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Sacoor,C1,Pullover,4,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,Y
+APR,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,Y
+CNT,Marks & Spencer Plc,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Tailored Brand,B,Pullover,1,AUTO,ANS,Crew Neck,Double bed,COTTON_BLENDS,N
+APR,Tailored Brand,B,Pullover,2,AUTO,ANS,Crew Neck,Double bed,COTTON_BLENDS,N
+APR,Tailored Brand,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jacquard,MERINO_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+APR,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,Djellaba,Jersey,MERINO,Y
+APR,Zadig & Voltaire,C2,Cardigan,1,AUTO,ANS,Hood,Jersey,MERINO,Y
+APR,Cape Union Mart,C1,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+APR,Cape Union Mart,C1,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,TRUEWORTHS,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,COTTON_BLENDS,N
+APR,TRUEWORTHS,B,Pullover,2,AUTO,ANS,Turtle Neck,Jersey,COTTON_BLENDS,N
+APR,Tailored Brand,B,Pullover,1,AUTO,FKL,V-Neck,Jersey,MERINO_BLENDS,Y
+APR,Tailored Brand,B,Pullover,2,AUTO,ANS,V-Neck,Jersey,MERINO_BLENDS,N
+APR,Tailored Brand,B,Pullover,3,AUTO,ANS,V-Neck,Jersey,MERINO_BLENDS,Y
+APR,Tailored Brand,B,Swatch,4,AUTO,ANS,Not Applicable,Jersey,MERINO,N
+APR,Monoprix Exploitation,B,Pullover,1,HF,US1,Crew Neck,Stripes,LAMBSWOOL,N
+APR,Monoprix Exploitation,B,Pullover,2,HF,US1,Crew Neck,Stripes,LAMBSWOOL,Y
+APR,Monoprix Exploitation,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Monoprix Exploitation,B,Pullover,2,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Monoprix Exploitation,B,Pullover,3,HF,US1,Crew Neck,Jersey,LAMBSWOOL,Y
+APR,Monoprix Exploitation,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Monoprix Exploitation,B,Pullover,2,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Monoprix Exploitation,B,Pullover,3,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Monoprix Exploitation,B,Pullover,4,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Monoprix Exploitation,B,Pullover,5,HF,US1,Crew Neck,Jersey,LAMBSWOOL,Y
+APR,TRUEWORTHS,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Zadig & Voltaire,C1,Pullover,1,AUTO,FKL,Boat Neck,Jersey,CASHMERE,N
+CNT,PICK N PAY,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,PICK N PAY,B,Pullover,2,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,RODD & GUNN,B,Swatch,1,AUTO,FKL,Not Applicable,Jersey,COTTON_BLENDS,N
+CNT,RODD & GUNN,B,Swatch,2,AUTO,FKL,Not Applicable,Jersey,COTTON_BLENDS,N
+APR,Tailored Brand,C1,Pullover,1,AUTO,FKL,High Crew Neck,Jersey,MERINO,Y
+APR,Tailored Brand,C1,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,MERINO,Y
+APR,Tailored Brand,C1,Pullover,3,AUTO,ANS,High Crew Neck,Jersey,MERINO,N
+APR,Tailored Brand,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,MERINO,N
+APR,Tailored Brand,B,Pullover,2,AUTO,ANS,V-Neck,Jersey,MERINO,N
+APR,Tailored Brand,C1,Pullover,3,AUTO,ANS,V-Neck,Jersey,MERINO,Y
+APR,Tailored Brand,B,Pullover,4,AUTO,ANS,V-Neck,Jersey,MERINO,N
+APR,Tailored Brand,B,Pullover,1,AUTO,ANS,V-Neck,Jacquard,MERINO,N
+APR,Tailored Brand,C1,Pullover,1,AUTO,ANS,Polo Collar,Jersey,MERINO,N
+APR,Tailored Brand,C1,Pullover,2,AUTO,ANS,Polo Collar,Jersey,MERINO,N
+APR,Tailored Brand,C1,Pullover,3,AUTO,ANS,Polo Collar,Jersey,MERINO,N
+APR,Tailored Brand,C1,Cardigan,1,AUTO,ANS,V-Neck,Jersey,MERINO,N
+APR,Tailored Brand,C2,Cardigan,2,AUTO,ANS,V-Neck,Jersey,MERINO,N
+APR,Tailored Brand,C1,Cardigan,3,AUTO,ANS,V-Neck,Jersey,MERINO,Y
+APR,Zadig & Voltaire,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,CASHMERE,N
+APR,Zadig & Voltaire,C1,Pullover,1,AUTO,FKL,Crew Neck,Jersey,CASHMERE,Y
+APR,Tailored Brand,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+APR,Tailored Brand,B,Pullover,2,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+APR,Tailored Brand,B,Pullover,3,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,John Lewis Overseas Plc,C1,Pullover,1,AUTO,FKL,Polo Collar,Tuck,MERINO_BLENDS,N
+CNT,John Lewis Overseas Plc,C1,Pullover,2,AUTO,FKL,Polo Collar,Tuck,MERINO_BLENDS,Y
+APR,Tailored Brand,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,MERINO,N
+APR,Tailored Brand,B,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,MERINO,N
+APR,Tailored Brand,C1,Pullover,3,AUTO,ANS,High Crew Neck,Jersey,MERINO,Y
+CNT,RODD & GUNN,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,RODD & GUNN,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+APR,RODD & GUNN,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,MERINO,Y
+APR,RODD & GUNN,B,Pullover,4,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+APR,RODD & GUNN,B,Pullover,5,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+APR,RODD & GUNN,C1,Pullover,6,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+APR,RODD & GUNN,C1,Pullover,7,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Verweij,C2,Pullover,1,AUTO,AJX,High Crew Neck,Jacquard,LAMBSWOOL,N
+CNT,Woolworths (Pty) Ltd,B,Tops,1,AUTO,ANS,Not Applicable,Jersey,LINEN_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Tops,2,AUTO,ANS,Not Applicable,Jersey,LINEN_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Tops,3,AUTO,ANS,Not Applicable,Jersey,LINEN_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Tops,4,AUTO,ANS,Crew Neck,Jersey,LINEN_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Tops,5,AUTO,ANS,Crew Neck,Jersey,LINEN_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Tops,6,AUTO,ANS,V-Neck,Jersey,LINEN_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Tops,7,AUTO,ANS,V-Neck,Jersey,LINEN_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Tops,8,AUTO,ANS,V-Neck,Jersey,LINEN_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Tops,9,AUTO,ANS,V-Neck,Jersey,LINEN_BLENDS,N
+CNT,DIANA,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,DIANA,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,DIANA,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Tailored Brand,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jacquard,LAMBSWOOL,N
+APR,Zadig & Voltaire,B,Pullover,1,AUTO,FKL,High Crew Neck,Cable/Aran,CASHMERE,N
+APR,Zadig & Voltaire,C1,Pullover,1,AUTO,FKL,V-Neck,Cable/Aran,CASHMERE,Y
+APR,Tailored Brand,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO_BLENDS,N
+APR,Tailored Brand,B,Pullover,1,AUTO,ANS,Crew Neck,Intarsia,MERINO_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,Turtle Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Marks & Spencer Plc,C1,Swatch,1,AUTO,FKL,Not Applicable,Jersey,LAMBSWOOL,N
+APR,Marks & Spencer Plc,C1,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Turtle Neck,Cable/Aran,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,B,Pullover,2,AUTO,ANS,Turtle Neck,Cable/Aran,LAMBSWOOL_BLENDS,N
+APR,Devred SAS,B,Pullover,3,AUTO,ANS,Turtle Neck,Cable/Aran,LAMBSWOOL_BLENDS,N
+APR,Devred SAS,B,Pullover,4,AUTO,ANS,Turtle Neck,Cable/Aran,LAMBSWOOL_BLENDS,N
+APR,Devred SAS,B,Pullover,5,AUTO,ANS,Turtle Neck,Cable/Aran,LAMBSWOOL_BLENDS,Y
+CNT,Tailored Brand,C1,Cardigan,1,AUTO,ANS,High Crew Neck,Double bed,COTTON_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL_BLENDS,Y
+APR,Devred SAS,C1,Pullover,3,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Devred SAS,C1,Pullover,4,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Devred SAS,B,Pullover,2,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Devred SAS,B,Pullover,3,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL_BLENDS,Y
+APR,Devred SAS,C1,Pullover,4,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Hackett London Menswear Company,C1,Pullover,1,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL,N
+APR,Hackett London Menswear Company,B,Pullover,2,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL,Y
+CNT,Marks & Spencer Plc,C1,Pullover,1,AUTO,AJX,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,C2,Cardigan,1,AUTO,ANS,Polo Collar,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Cardigan,2,AUTO,ANS,Polo Collar,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,C2,Cardigan,3,AUTO,ANS,Polo Collar,Jersey,LAMBSWOOL,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Rib,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,HF,US1,Turtle Neck,Jersey,RAYON_BLENDS,N
+CNT,Cape Union Mart,B,Pullover,1,AUTO,ANS,V-Neck,Cable/Aran,COTTON,N
+CNT,Cape Union Mart,B,Pullover,2,AUTO,ANS,V-Neck,Cable/Aran,COTTON_BLENDS,N
+CNT,Cape Union Mart,B,Pullover,3,AUTO,ANS,V-Neck,Cable/Aran,COTTON_BLENDS,N
+APR,Zadig & Voltaire,C1,Pullover,1,AUTO,FKL,Crew Neck,Double bed,LAMBSWOOL,Y
+APR,Zadig & Voltaire,C1,Cardigan,1,AUTO,ANS,V-Neck,Jersey,CASHMERE,Y
+CNT,RODD & GUNN,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,WOOL_BLENDS,N
+CNT,FABIANI,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jacquard,COTTON,N
+CNT,Superbalist,B,Swatch,1,AUTO,ANS,V-Neck,Stripes,COTTON,N
+CNT,Superbalist,B,Swatch,2,AUTO,ANS,V-Neck,Stripes,COTTON,N
+CNT,Superbalist,B,Swatch,3,AUTO,ANS,V-Neck,Stripes,COTTON,N
+APR,Superbalist,B,Swatch,4,AUTO,ANS,V-Neck,Jersey,COTTON,Y
+APR,Superbalist,B,Swatch,5,AUTO,ANS,V-Neck,Jersey,COTTON,N
+APR,Superbalist,B,Swatch,6,AUTO,ANS,V-Neck,Jersey,COTTON,Y
+APR,Superbalist,B,Swatch,7,AUTO,ANS,V-Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,Not Applicable,Jersey,LINEN_BLENDS,Y
+CNT,Zadig & Voltaire,B,Pullover,1,AUTO,FKL,Boat Neck,Jersey,MERINO,Y
+CNT,Marks & Spencer Plc,B,Pullover,1,HF,US1,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Zadig & Voltaire,C2,Pullover,1,AUTO,FKL,Hood,Jersey,MERINO,N
+CNT,Marks & Spencer Plc,C1,Pullover,1,AUTO,ANS,GrandDad Collar,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,2,AUTO,ANS,GrandDad Collar,Jersey,LAMBSWOOL,N
+APR,Devred SAS,B,Pullover,1,AUTO,ANS,Shawl Collar,Tuck,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,ANS,Shawl Collar,Tuck,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,C1,Pullover,3,AUTO,ANS,Shawl Collar,Tuck,LAMBSWOOL_BLENDS,N
+APR,Devred SAS,C1,Pullover,4,AUTO,ANS,Shawl Collar,Tuck,LAMBSWOOL_BLENDS,N
+APR,Devred SAS,B,Pullover,5,AUTO,ANS,Shawl Collar,Tuck,LAMBSWOOL_BLENDS,N
+APR,Devred SAS,C1,Pullover,6,AUTO,ANS,Shawl Collar,Tuck,LAMBSWOOL_BLENDS,Y
+APR,Devred SAS,C1,Pullover,7,AUTO,ANS,Shawl Collar,Tuck,LAMBSWOOL_BLENDS,N
+APR,Devred SAS,C1,Pullover,8,AUTO,ANS,Shawl Collar,Tuck,LAMBSWOOL_BLENDS,N
+CNT,Lacoste,C1,Not Applicable,1,AUTO,FKL,Polo Collar,Jersey,COTTON,N
+CNT,Lacoste,C1,Not Applicable,2,AUTO,FKL,Polo Collar,Jersey,COTTON,N
+CNT,Lacoste,C1,Not Applicable,1,AUTO,FKL,Polo Collar,Jersey,COTTON,N
+APR,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,LAMBSWOOL,N
+APR,Marks & Spencer Plc,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,LAMBSWOOL,Y
+CNT,Lacoste,C1,Pullover,1,AUTO,FKL,Crew Neck,Jacquard,COTTON,N
+CNT,Lacoste,C1,Pullover,2,AUTO,FKL,Crew Neck,Jacquard,COTTON,N
+CNT,Lacoste,B,Pullover,3,AUTO,FKL,Crew Neck,Jacquard,COTTON,N
+CNT,Lacoste,C2,Pullover,4,AUTO,FKL,Crew Neck,Jacquard,COTTON,N
+CNT,Lacoste,C1,Pullover,1,AUTO,FKL,Crew Neck,Double bed,COTTON_BLENDS,N
+CNT,Lacoste,C1,Pullover,1,AUTO,FKL,Crew Neck,Jacquard,COTTON,N
+CNT,Lacoste,B,Pullover,2,AUTO,FKL,Not Applicable,Jacquard,COTTON,N
+CNT,Lacoste,C2,Pullover,3,AUTO,FKL,Crew Neck,Jacquard,COTTON,N
+APR,Lacoste,C1,Pullover,4,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+APR,Lacoste,C1,Pullover,5,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+APR,Lacoste,C1,Pullover,6,AUTO,ANS,Crew Neck,Jacquard,COTTON,Y
+APR,Devred SAS,B,Pullover,1,HF,AJX,Crew Neck,Stripes,COTTON_BLENDS,N
+APR,Devred SAS,B,Pullover,2,HF,AJX,Crew Neck,Stripes,COTTON_BLENDS,N
+APR,Devred SAS,B,Pullover,3,HF,AJX,Crew Neck,Stripes,COTTON_BLENDS,Y
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Turtle Neck,Tuck,LAMBSWOOL,N
+APR,Marks & Spencer Plc,B,Pullover,2,AUTO,ANS,Turtle Neck,Tuck,LAMBSWOOL,Y
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,Y
+APR,Devred SAS,B,Pullover,1,AUTO,AJX,Crew Neck,Rib,COTTON,N
+APR,Devred SAS,B,Pullover,2,AUTO,AJX,Crew Neck,Rib,COTTON,N
+APR,Devred SAS,B,Pullover,3,AUTO,AJX,Crew Neck,Double bed,COTTON,N
+APR,Devred SAS,B,Pullover,4,AUTO,AJX,Crew Neck,Double bed,COTTON,Y
+APR,Devred SAS,C1,Pullover,5,AUTO,AJX,Crew Neck,Double bed,COTTON,N
+APR,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Rib,COTTON,N
+APR,Devred SAS,C1,Pullover,2,AUTO,AJX,Crew Neck,Rib,COTTON,N
+APR,Devred SAS,C1,Pullover,3,AUTO,AJX,Crew Neck,Double bed,COTTON,N
+APR,Devred SAS,C1,Pullover,4,AUTO,AJX,Crew Neck,Double bed,COTTON,Y
+APR,Devred SAS,C1,Pullover,5,AUTO,AJX,Crew Neck,Double bed,COTTON,N
+CNT,Marks & Spencer Plc,B,Pullover,1,HF,AJX,High Crew Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,FATHER & SONS,C2,Cardigan,1,HF,AJX,High Crew Neck,Jersey,CASHMERE_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,WOOL_BLENDS,N
+CNT,Stockomani,B,Pullover,1,HF,AJX,V-Neck,Jersey,CASHMERE,Y
+APR,Stockomani,B,Pullover,2,HF,AJX,V-Neck,Jersey,CASHMERE,N
+CNT,Stockomani,B,Pullover,1,HF,AJX,V-Neck,Jersey,CASHMERE,N
+APR,Stockomani,B,Pullover,2,HF,AJX,V-Neck,Jersey,CASHMERE,Y
+APR,Stockomani,B,Pullover,3,HF,AJX,V-Neck,Jersey,CASHMERE,N
+APR,French Connection,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,ACRYLIC,Y
+APR,French Connection,B,Pullover,2,AUTO,ANS,Turtle Neck,Jersey,ACRYLIC,N
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Celio International SA,B,Pullover,2,AUTO,ANS,Crew Neck,Jacquard,COTTON_BLENDS,N
+CNT,Celio International SA,B,Pullover,3,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Celio International SA,B,Pullover,4,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Celio International SA,B,Pullover,5,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Celio International SA,B,Pullover,6,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Bonobo Planet,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Bonobo Planet,C1,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,Turtle Neck,Tuck,COTTON,N
+CNT,Celio International SA,B,Pullover,2,AUTO,ANS,Turtle Neck,Tuck,COTTON,N
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Stockomani,B,Pullover,1,AUTO,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Stockomani,C1,Pullover,2,AUTO,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Stockomani,B,Pullover,3,AUTO,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,Y
+APR,Stockomani,C1,Pullover,4,AUTO,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Celio International SA,C1,Pullover,1,AUTO,AJX,High Crew Neck,Jacquard,COTTON,N
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,Turtle Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Celio International SA,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,High Crew Neck,Tuck,COTTON,N
+CNT,Stockomani,B,Swatch,1,HF,FKL,Not Applicable,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Stockomani,B,Swatch,1,HF,FKL,Not Applicable,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Marks & Spencer Plc,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Marks & Spencer Plc,C2,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Marks & Spencer Plc,C2,Pullover,3,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Turtle Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,Marks & Spencer Plc,C1,Cardigan,1,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Superbalist,C1,Cardigan,1,AUTO,ANS,Not Applicable,Jersey,COTTON_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,LAMBSWOOL,N
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Celio International SA,B,Pullover,2,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Celio International SA,B,Pullover,2,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,1,HF,US1,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,C1,Cardigan,1,AUTO,ANS,High Crew Neck,Tuck,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,C1,Cardigan,2,AUTO,ANS,High Crew Neck,Tuck,LAMBSWOOL,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,AJX,Crew Neck,Jacquard,COTTON,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,LAMBSWOOL,N
+CNT,Devred SAS,C1,Pullover,1,HF,AJX,High Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,Crew Neck,Intarsia,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+APR,Devred SAS,B,Pullover,2,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+APR,Devred SAS,B,Pullover,3,AUTO,ANS,Turtle Neck,Jersey,MERINO,Y
+APR,Devred SAS,B,Pullover,4,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+APR,Devred SAS,B,Pullover,5,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+APR,Devred SAS,B,Pullover,6,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,Bonobos (US),C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,Bonobos (US),C1,Pullover,2,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,Bonobos (US),C1,Pullover,3,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,Bonobos (US),C1,Pullover,4,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,Bonobos (US),C1,Pullover,5,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,Bonobos (US),C1,Pullover,6,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,Bonobos (US),C1,Pullover,7,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Bonobos (US),B,Pullover,8,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,Bonobos (US),C1,Pullover,9,AUTO,ANS,Crew Neck,Jersey,COTTON,Y
+CNT,Bonobos (US),B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,COTTON,N
+APR,Bonobos (US),B,Pullover,2,AUTO,ANS,Crew Neck,Knit/purl,COTTON,N
+APR,Bonobos (US),B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,Bonobos (US),B,Pullover,4,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,Bonobos (US),B,Pullover,5,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,Bonobos (US),B,Pullover,6,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,Bonobos (US),B,Pullover,7,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,Bonobos (US),B,Pullover,8,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,Bonobos (US),B,Pullover,9,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,Bonobos (US),B,Pullover,10,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,Bonobos (US),B,Pullover,11,AUTO,ANS,Crew Neck,Jersey,COTTON,Y
+CNT,DIANA,C1,Pullover,1,HF,US1,Polo Collar,Jersey,COTTON_BLENDS,N
+CNT,Stockomani,B,Pullover,1,HF,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Stockomani,B,Pullover,2,HF,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Stockomani,B,Pullover,3,HF,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,Y
+CNT,Stockomani,B,Pullover,1,HF,AJX,V-Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Stockomani,B,Pullover,2,HF,AJX,V-Neck,Jersey,LAMBSWOOL_BLENDS,Y
+APR,Stockomani,B,Pullover,3,HF,AJX,V-Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Stockomani,C1,Pullover,1,HF,AJX,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Stockomani,C1,Pullover,2,HF,AJX,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Stockomani,C2,Pullover,3,HF,AJX,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,Y
+CNT,Stockomani,C1,Pullover,1,HF,AJX,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Stockomani,C1,Pullover,2,HF,AJX,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Stockomani,C1,Pullover,3,HF,AJX,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,Y
+CNT,Zadig & Voltaire,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,CASHMERE,N
+CNT,DIANA,B,Pullover,1,HF,US1,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+APR,Stockomani,B,Pullover,1,AUTO,AJX,Turtle Neck,Cable/Aran,LAMBSWOOL_BLENDS,N
+CNT,Stockomani,B,Pullover,2,AUTO,AJX,Turtle Neck,Cable/Aran,LAMBSWOOL_BLENDS,N
+APR,Stockomani,B,Pullover,3,AUTO,AJX,Turtle Neck,Cable/Aran,LAMBSWOOL_BLENDS,N
+APR,Stockomani,C1,Pullover,4,AUTO,AJX,Turtle Neck,Cable/Aran,LAMBSWOOL_BLENDS,Y
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,Cross Over V,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Bonobo Planet,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Bonobo Planet,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Bonobo Planet,B,Pullover,1,HF,US1,Turtle Neck,Tuck,COTTON,N
+CNT,Bonobo Planet,B,Pullover,2,AUTO,ANS,Turtle Neck,Tuck,COTTON,N
+CNT,Bonobo Planet,B,Pullover,3,AUTO,ANS,Turtle Neck,Tuck,COTTON,N
+CNT,Next Retail Limited,C1,Pullover,1,HF,US1,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,C1,Pullover,2,HF,US1,High Crew Neck,Jersey,LAMBSWOOL,N
+APR,Next Retail Limited,B,Pullover,3,HF,US1,High Crew Neck,Jersey,LAMBSWOOL,N
+APR,Next Retail Limited,C1,Pullover,4,HF,US1,High Crew Neck,Jersey,LAMBSWOOL,Y
+CNT,Next Retail Limited,B,Pullover,1,HF,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Next Retail Limited,C1,Pullover,1,AUTO,AJX,Col Camionneur,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Bonobo Planet,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Next Retail Limited,B,Pullover,1,HF,AJX,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,1,HF,AJX,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,1,HF,AJX,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,C2,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Marks & Spencer Plc,C2,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,Y
+APR,Marks & Spencer Plc,C2,Pullover,3,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Bonobo Planet,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Marks & Spencer Plc,C1,Cardigan,1,HF,US1,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Woolworths (Pty) Ltd,B,Swatch,1,AUTO,ANS,Crew Neck,Jersey,VISCOSE_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Not Applicable,1,AUTO,ANS,Not Applicable,Rib,VISCOSE_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,RAYON_BLENDS,Y
+APR,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,High Crew Neck,Rib,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Boat Neck,Cable/Aran,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Boat Neck,Cable/Aran,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,4,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Intarsia,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Intarsia,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Crew Neck,Intarsia,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Swatch,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Swatch,2,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,RAYON_BLENDS,Y
+APR,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,RAYON_BLENDS,Y
+CNT,Lacoste,C1,Pullover,1,AUTO,FKL,V-Neck,Double bed,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,AJX,Crew Neck,Jacquard,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Untuckit,C1,Pullover,1,AUTO,ANS,High Crew Neck,Cable/Aran,CASHMERE,N
+CNT,Untuckit,C1,Pullover,2,AUTO,ANS,High Crew Neck,Cable/Aran,CASHMERE,N
+CNT,Untuckit,C1,Pullover,3,AUTO,ANS,High Crew Neck,Jersey,CASHMERE,N
+CNT,Untuckit,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Marks & Spencer Plc,B,Swatch,1,AUTO,ANS,Not Applicable,Jacquard,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,2,AUTO,ANS,Crew Neck,Jacquard,LAMBSWOOL,N
+APR,Marks & Spencer Plc,B,Pullover,3,AUTO,ANS,Crew Neck,Jacquard,LAMBSWOOL,Y
+CNT,AWAY,B,Trousers,1,AUTO,ANS,Not Applicable,Rib,CASHMERE_BLENDS,N
+CNT,AWAY,B,Trousers,2,AUTO,ANS,Not Applicable,Rib,CASHMERE_BLENDS,N
+CNT,AWAY,B,Trousers,3,AUTO,ANS,Not Applicable,Rib,CASHMERE_BLENDS,N
+CNT,AWAY,B,Trousers,4,AUTO,ANS,Not Applicable,Rib,CASHMERE_BLENDS,N
+CNT,AWAY,C2,Pullover,1,AUTO,ANS,Hood,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,C2,Pullover,2,AUTO,ANS,Hood,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,C2,Pullover,3,AUTO,ANS,Hood,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,C2,Pullover,4,AUTO,ANS,Hood,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,B,Trousers,1,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,B,Trousers,2,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,B,Trousers,3,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,B,Trousers,4,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,C2,Trousers,5,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,C2,Trousers,6,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,DIANA,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,DIANA,B,Pullover,2,HF,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,DIANA,B,Pullover,3,HF,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,DIANA,B,Pullover,4,HF,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,DIANA,B,Pullover,5,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,DIANA,B,Pullover,6,HF,US1,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,DIANA,B,Pullover,7,HF,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,DIANA,B,Pullover,8,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,LAMBSWOOL,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Stripes,LAMBSWOOL_BLENDS,N
+CNT,Marketing Trip,B,Pullover,2,HF,US1,Crew Neck,Stripes,LAMBSWOOL_BLENDS,N
+CNT,ITOCHU,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,LAMBSWOOL,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,POLYESTER_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,V-Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,V-Neck,Jersey,NYLON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,4,AUTO,ANS,V-Neck,Jersey,NYLON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,5,AUTO,ANS,V-Neck,Jersey,NYLON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,6,AUTO,ANS,V-Neck,Jersey,COTTON,N
+APR,Woolworths (Pty) Ltd,B,Pullover,7,AUTO,ANS,V-Neck,Jersey,COTTON,N
+APR,Woolworths (Pty) Ltd,B,Pullover,8,AUTO,ANS,V-Neck,Jersey,COTTON,Y
+APR,Woolworths (Pty) Ltd,B,Pullover,9,AUTO,ANS,V-Neck,Jersey,COTTON,Y
+CNT,Tailored Brand,B,Pullover,1,AUTO,ANS,Crew Neck,Stripes,COTTON,N
+CNT,Mr Blue,B,Pullover,1,HF,AJX,V-Neck,Jersey,VISCOSE_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,HF,AJX,V-Neck,Jersey,COTTON_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,2,AUTO,ANS,Crew Neck,Intarsia,ACRYLIC_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,3,AUTO,ANS,Crew Neck,Intarsia,ACRYLIC_BLENDS,N
+CNT,TM LEWIN,C1,Pullover,1,HF,US1,High Crew Neck,Jersey,LAMBSWOOL,N
+APR,TM LEWIN,C1,Pullover,2,HF,US1,High Crew Neck,Jersey,LAMBSWOOL,Y
+APR,TM LEWIN,C1,Pullover,3,HF,US1,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,TM LEWIN,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+APR,TM LEWIN,B,Pullover,2,HF,US1,Crew Neck,Jersey,LAMBSWOOL,Y
+APR,TM LEWIN,B,Pullover,3,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Devred SAS,B,Pullover,1,HF,AJX,V-Neck,Jersey,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,B,Pullover,2,HF,US1,Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,ANS,High Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,V-Neck,Jacquard,LAMBSWOOL_BLENDS,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Boat Neck,Rib,NYLON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Boat Neck,Rib,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Boat Neck,Rib,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,ACRYLIC_BLENDS,N
+CNT,Celio International SA,B,Pullover,1,HF,US1,High Crew Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,2,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+CNT,Tailored Brand,C1,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Tailored Brand,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Tailored Brand,C2,Pullover,1,AUTO,FKL,Polo Collar,Jersey,COTTON,N
+CNT,Tailored Brand,C2,Pullover,1,AUTO,ANS,Polo Collar,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Crew Neck,Tuck,MERINO_BLENDS,N
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,Celio International SA,B,Pullover,2,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Celio International SA,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,MERINO,N
+CNT,Celio International SA,B,Pullover,2,AUTO,ANS,V-Neck,Jersey,MERINO,N
+CNT,Tailored Brand,C1,Tunic,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Tailored Brand,C1,Cardigan,1,AUTO,ANS,High Crew Neck,Jacquard,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,AJX,Turtle Neck,Tuck,VISCOSE_BLENDS,N
+CNT,Tailored Brand,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Devred SAS,B,Pullover,1,HF,US1,Snood,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,B,Pullover,2,HF,US1,Snood,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,DIANA,B,Pullover,1,HF,US1,Crew Neck,Jersey,MERINO,N
+CNT,Tailored Brand,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,COTTON,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,High Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,C1,Cardigan,1,AUTO,FKL,Not Applicable,Jersey,CASHMERE,N
+CNT,Marketing Trip,C1,Cardigan,2,AUTO,FKL,Not Applicable,Jersey,CASHMERE,N
+APR,Marketing Trip,C1,Cardigan,3,AUTO,FKL,Not Applicable,Jersey,CASHMERE,N
+CNT,Mr Blue,C2,Cardigan,1,HF,AJX,V-Neck,Jersey,COTTON_BLENDS,N
+CNT,Mr Blue,C2,Cardigan,2,HF,AJX,V-Neck,Jersey,COTTON_BLENDS,Y
+CNT,Mr Blue,C1,Pullover,1,HF,AJX,High Crew Neck,Jersey,COTTON_BLENDS,Y
+CNT,Mr Blue,B,Pullover,1,AUTO,AJX,V-Neck,Cable/Aran,COTTON_BLENDS,N
+CNT,Mr Blue,C1,Pullover,1,HF,AJX,High Crew Neck,Jersey,COTTON_BLENDS,Y
+CNT,Mr Blue,C1,Pullover,1,HF,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,Y
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Cawl Neck,Jersey,CASHMERE,N
+CNT,Marketing Trip,B,Pullover,2,AUTO,FKL,Cawl Neck,Jersey,CASHMERE,N
+APR,Marketing Trip,B,Pullover,3,AUTO,FKL,Cawl Neck,Jersey,CASHMERE,N
+CNT,Mr Blue,C1,Pullover,1,HF,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Mr Blue,C1,Cardigan,1,HF,AJX,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,Y
+CNT,Mr Blue,C2,Pullover,1,AUTO,AJX,High Crew Neck,Cable/Aran,LAMBSWOOL_BLENDS,Y
+CNT,Mr Blue,C2,Pullover,1,HF,AJX,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Mr Blue,C2,Pullover,2,HF,AJX,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,Y
+CNT,Mr Blue,C2,Pullover,1,HF,AJX,V-Neck,Jersey,LAMBSWOOL_BLENDS,Y
+CNT,Mr Blue,C2,Pullover,1,HF,AJX,V-Neck,Jersey,LAMBSWOOL_BLENDS,Y
+CNT,Mr Blue,C1,Pullover,1,HF,AJX,Crew Neck,Jersey,VISCOSE_BLENDS,N
+CNT,Mr Blue,B,Pullover,2,HF,AJX,High Crew Neck,Jersey,VISCOSE_BLENDS,Y
+CNT,Mr Blue,C1,Pullover,1,HF,AJX,V-Neck,Jersey,VISCOSE_BLENDS,Y
+APR,Stockomani,B,Pullover,1,HF,US1,V-Neck,Jersey,COTTON_BLENDS,Y
+APR,Stockomani,B,Pullover,2,HF,US1,V-Neck,Jersey,COTTON_BLENDS,N
+CNT,DIANA,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,DIANA,B,Pullover,2,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Devred SAS,B,Pullover,1,HF,AJX,V-Neck,Jersey,COTTON,N
+APR,Devred SAS,B,Pullover,2,HF,AJX,V-Neck,Jersey,COTTON,N
+CNT,DIANA,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Monoprix Exploitation,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Monoprix Exploitation,B,Pullover,2,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Monoprix Exploitation,B,Pullover,3,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+APR,Monoprix Exploitation,B,Pullover,4,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+APR,Monoprix Exploitation,B,Pullover,5,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,Y
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,Crew Neck,Stripes,LAMBSWOOL,N
+CNT,DIANA,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Bonobo Planet,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,COTTON,N
+CNT,Bonobo Planet,B,Pullover,2,AUTO,ANS,Crew Neck,Knit/purl,COTTON,N
+APR,Bonobo Planet,B,Pullover,3,AUTO,ANS,Crew Neck,Knit/purl,COTTON,Y
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,Not Applicable,Tuck,VISCOSE_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,FKL,Crew Neck,Jacquard,COTTON,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,FKL,V-Neck,Jersey,COTTON_BLENDS,N
+CNT,Marketing Trip,C1,Pullover,2,AUTO,FKL,V-Neck,Jersey,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,High Crew Neck,Twill Structure,NYLON_BLENDS,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,C2,Pullover,1,AUTO,FKL,Crew Neck,Rib,VISCOSE_BLENDS,N
+CNT,Marketing Trip,C2,Pullover,2,AUTO,FKL,Crew Neck,Rib,VISCOSE_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,V-Neck,Jersey,COTTON_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Bonobo Planet,C1,Pullover,1,AUTO,ANS,Shawl Collar,Tuck,COTTON,N
+CNT,Bonobo Planet,C1,Pullover,2,AUTO,ANS,Shawl Collar,Tuck,COTTON,N
+APR,Bonobo Planet,C1,Pullover,3,AUTO,ANS,Shawl Collar,Tuck,COTTON,N
+APR,Bonobo Planet,C1,Pullover,4,AUTO,ANS,Shawl Collar,Tuck,COTTON,Y
+APR,Bonobo Planet,C1,Pullover,5,AUTO,ANS,Shawl Collar,Tuck,COTTON,N
+CNT,Zadig & Voltaire,B,Swatch,1,AUTO,FKL,Not Applicable,Jersey,CASHMERE,N
+CNT,Zadig & Voltaire,B,Swatch,1,AUTO,FKL,Not Applicable,Jersey,CASHMERE,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Crew Neck,Knit/purl,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Crew Neck,Jacquard,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Tops,1,AUTO,ANS,V-Neck,Jersey,LINEN_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,NYLON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,C2,Cardigan,1,HF,AJX,Shawl Collar,Stripes,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Stripes,COTTON,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,ANS,Crew Neck,Stripes,COTTON,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,ANS,Y-Shape Neck,Stripes,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,2,AUTO,ANS,Crew Neck,Jacquard,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,FKL,Polo Collar,Knit/purl,COTTON_BLENDS,N
+CNT,Marketing Trip,C2,Pullover,1,HF,US1,High Crew Neck,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,POLYESTER_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,NYLON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,V-Neck,Rib,NYLON_BLENDS,N
+CNT,Marketing Trip,C2,Pullover,1,HF,US1,Tunisian collar,Jersey,COTTON,N
+CNT,Collection,C1,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,FKL,V-Neck,Jersey,CASHMERE,N
+CNT,Zadig & Voltaire,C2,Pullover,1,AUTO,FKL,Crew Neck,Intarsia,CASHMERE,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jacquard,COTTON,N
+CNT,LEMAKA,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,VISCOSE_BLENDS,N
+APR,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,CASHMERE,N
+APR,Zadig & Voltaire,C1,Pullover,2,AUTO,ANS,Crew Neck,Jersey,CASHMERE,N
+APR,Zadig & Voltaire,C1,Pullover,3,AUTO,ANS,Not Applicable,Jersey,CASHMERE,Y
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Shawl Collar,Intarsia,ACRYLIC_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,FKL,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Knitted Collar,Tuck,ACRYLIC_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,COTTON_BLENDS,N
+APR,Devred SAS,C1,Pullover,2,AUTO,ANS,Crew Neck,Knit/purl,COTTON_BLENDS,Y
+APR,Devred SAS,C1,Pullover,3,AUTO,ANS,Crew Neck,Knit/purl,COTTON_BLENDS,N
+APR,Devred SAS,C1,Pullover,4,AUTO,ANS,Crew Neck,Knit/purl,COTTON_BLENDS,N
+APR,Devred SAS,C1,Pullover,5,AUTO,ANS,Crew Neck,Knit/purl,COTTON_BLENDS,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,ANS,High Crew Neck,Cable/Aran,COTTON_BLENDS,N
+CNT,Devred SAS,C1,Pullover,1,HF,US1,Shawl Collar,Jersey,COTTON_BLENDS,N
+CNT,Devred SAS,C2,Pullover,1,AUTO,AJX,High Crew Neck,Cable/Aran,CASHMERE_BLENDS,N
+CNT,Devred SAS,C2,Pullover,1,AUTO,AJX,High Crew Neck,Cable/Aran,CASHMERE_BLENDS,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,AJX,High Crew Neck,Cable/Aran,CASHMERE_BLENDS,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,High Crew Neck,Cable/Aran,CASHMERE_BLENDS,N
+CNT,Devred SAS,C2,Pullover,1,AUTO,AJX,Shawl Collar,Cable/Aran,CASHMERE_BLENDS,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,AJX,Shawl Collar,Cable/Aran,CASHMERE_BLENDS,N
+APR,Devred SAS,C1,Pullover,3,AUTO,ANS,Shawl Collar,Cable/Aran,CASHMERE_BLENDS,N
+APR,Devred SAS,C1,Pullover,4,AUTO,ANS,Shawl Collar,Cable/Aran,CASHMERE_BLENDS,N
+APR,Devred SAS,C1,Pullover,5,AUTO,ANS,Shawl Collar,Cable/Aran,CASHMERE_BLENDS,Y
+APR,Devred SAS,C1,Pullover,6,AUTO,ANS,Shawl Collar,Cable/Aran,CASHMERE_BLENDS,N
+APR,Devred SAS,C1,Pullover,7,AUTO,ANS,Cross Over V,Rib,CASHMERE_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,AJX,V-Neck,Cable/Aran,CASHMERE_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,AJX,Crew Neck,Cable/Aran,CASHMERE_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,AJX,Crew Neck,Cable/Aran,CASHMERE_BLENDS,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Cable/Aran,CASHMERE_BLENDS,N
+CNT,Devred SAS,B,Pullover,2,AUTO,AJX,Crew Neck,Cable/Aran,CASHMERE_BLENDS,N
+CNT,John Lewis Overseas Plc,C2,Cardigan,1,AUTO,ANS,GrandDad Collar,Double bed,COTTON,N
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,Crew Neck,Stripes,LAMBSWOOL,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,R&D Testing,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+APR,Tailored Brand,C2,Cardigan,1,AUTO,ANS,Shawl Collar,Knit/purl,LAMBSWOOL_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Intarsia,COTTON,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,FKL,High Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,AJX,High Crew Neck,Knit/purl,POLYESTER_BLENDS,N
+CNT,TM LEWIN,C1,Pullover,1,AUTO,FKL,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,FKL,High Crew Neck,Stripes,COTTON_BLENDS,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,ANS,Hood,Jersey,MERINO_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Next Retail Limited,C1,Pullover,2,AUTO,ANS,Crew Neck,Jersey,COTTON,Y
+CNT,TM LEWIN,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON,N
+CNT,TM LEWIN,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,TM LEWIN,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,TM LEWIN,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Devred SAS,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Devred SAS,B,Pullover,3,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,HF,US1,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,FKL,Crew Neck,Jersey,CASHMERE,N
+CNT,Bonobo Planet,B,Pullover,1,HF,US1,Crew Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,HF,US1,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,3,HF,US1,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Zadig & Voltaire,C1,Cardigan,1,AUTO,FKL,High Crew Neck,Jersey,CASHMERE,N
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,High Crew Neck,Jacquard,COTTON_BLENDS,N
+CNT,Celio International SA,C1,Pullover,2,AUTO,ANS,Col Camionneur,Jacquard,ACRYLIC_BLENDS,N
+CNT,Celio International SA,C1,Pullover,3,AUTO,ANS,High Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Celio International SA,C1,Pullover,4,AUTO,ANS,High Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Celio International SA,C1,Pullover,5,AUTO,ANS,High Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON_BLENDS,N
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,FKL,Boat Neck,Jersey,CASHMERE,N
+APR,Zadig & Voltaire,C1,Pullover,2,AUTO,ANS,Boat Neck,Jersey,CASHMERE,Y
+APR,Zadig & Voltaire,C1,Pullover,3,AUTO,ANS,Boat Neck,Jersey,CASHMERE,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,NYLON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,NYLON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,VISCOSE_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,Not Applicable,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,2,AUTO,ANS,Not Applicable,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,Not Applicable,Tuck,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Rib,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Pullover,1,AUTO,ANS,Hood,Jersey,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Dress,1,AUTO,ANS,Crew Neck,Jersey,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Dress,2,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Dress,1,AUTO,ANS,High Crew Neck,Jersey,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Dress,2,AUTO,ANS,High Crew Neck,Jersey,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Dress,1,AUTO,ANS,High Crew Neck,Jersey,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Dress,2,AUTO,ANS,High Crew Neck,Jersey,VISCOSE_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Dress,1,AUTO,ANS,High Crew Neck,Rib,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Dress,2,AUTO,ANS,High Crew Neck,Rib,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Dress,3,AUTO,ANS,High Crew Neck,Rib,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Dress,4,AUTO,ANS,High Crew Neck,Rib,RAYON_BLENDS,Y
+APR,Woolworths (Pty) Ltd,B,Dress,5,AUTO,ANS,High Crew Neck,Rib,RAYON_BLENDS,N
+CNT,Bonobos (US),C1,Cardigan,1,AUTO,ANS,Not Applicable,Jacquard,COTTON,N
+CNT,Bonobos (US),C1,Cardigan,2,AUTO,ANS,Not Applicable,Jacquard,COTTON,N
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,Hood,Double bed,CASHMERE,N
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,Hood,Double bed,CASHMERE,N
+CNT,Zadig & Voltaire,C1,Pullover,2,AUTO,FKL,Hood,Jacquard,CASHMERE,N
+CNT,Zadig & Voltaire,C1,Trousers,1,AUTO,ANS,Not Applicable,Double bed,CASHMERE,N
+CNT,Zadig & Voltaire,C2,Trousers,1,AUTO,ANS,Not Applicable,Double bed,CASHMERE,N
+CNT,Woolworths (Pty) Ltd,C1,Pullover,1,HF,US1,High Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Jersey,COTTON,N
+CNT,R&D Testing,B,Pullover,1,AUTO,FKL,V-Neck,Jersey,COTTON,N
+CNT,Next Retail Limited,B,Pullover,1,HF,FKL,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,C1,Pullover,1,AUTO,ANS,Polo Collar,Tuck,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Marketing Trip,B,Pullover,2,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,High Crew Neck,Jersey,SILK_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,4,AUTO,ANS,High Crew Neck,Jersey,SILK_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,NYLON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,NYLON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,NYLON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,Not Applicable,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Cardigan,2,AUTO,ANS,Not Applicable,Jersey,ACRYLIC,N
+CNT,Woolworths (Pty) Ltd,B,Cardigan,3,AUTO,ANS,Not Applicable,Jersey,ACRYLIC,N
+APR,Woolworths (Pty) Ltd,C1,Cardigan,4,AUTO,ANS,Not Applicable,Jersey,ACRYLIC,N
+APR,Woolworths (Pty) Ltd,B,Cardigan,5,AUTO,ANS,Not Applicable,Jersey,ACRYLIC,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Rib,RAYON_BLENDS,N
+CNT,Zadig & Voltaire,C1,Cardigan,1,AUTO,FKL,V-Neck,Jersey,CASHMERE,N
+APR,Zadig & Voltaire,C1,Cardigan,2,AUTO,ANS,V-Neck,Jersey,CASHMERE,Y
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,Snood,Double bed,LAMBSWOOL,N
+APR,Zadig & Voltaire,C1,Pullover,2,AUTO,ANS,Hood,Double bed,LAMBSWOOL,Y
+CNT,Woolworths (Pty) Ltd,C1,Pullover,1,AUTO,FKL,Polo Collar,Cable/Aran,COTTON,N
+CNT,Woolworths (Pty) Ltd,C1,Pullover,2,AUTO,ANS,Polo Collar,Cable/Aran,COTTON,N
+CNT,Woolworths (Pty) Ltd,C1,Pullover,3,AUTO,ANS,Polo Collar,Cable/Aran,COTTON,N
+APR,Woolworths (Pty) Ltd,C1,Pullover,4,AUTO,ANS,Polo Collar,Cable/Aran,COTTON,N
+APR,Woolworths (Pty) Ltd,C1,Pullover,5,AUTO,ANS,Polo Collar,Cable/Aran,COTTON,Y
+CNT,MANGO,C2,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON,N
+CNT,Devred SAS,B,Pullover,1,AUTO,AJX,Crew Neck,Jacquard,COTTON,N
+CNT,MANGO,C1,Pullover,1,AUTO,FKL,Crew Neck,Jacquard,COTTON_BLENDS,N
+CNT,R&D Testing,B,Pullover,1,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Woolworths (Pty) Ltd,C2,Pullover,1,HF,US1,High Crew Neck,Jersey,COTTON_BLENDS,N
+APR,Woolworths (Pty) Ltd,C2,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,COTTON_BLENDS,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Stripes,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Swatch,1,AUTO,ANS,Not Applicable,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,4,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,5,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,6,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,7,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,8,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,R&D Testing,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Rib,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,Not Applicable,Jersey,ACRYLIC,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,2,AUTO,ANS,Not Applicable,Jersey,ACRYLIC,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,3,AUTO,ANS,Not Applicable,Jersey,ACRYLIC,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,4,AUTO,ANS,Not Applicable,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,5,AUTO,ANS,Not Applicable,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Cable/Aran,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Crew Neck,Cable/Aran,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,4,AUTO,ANS,Crew Neck,Cable/Aran,COTTON,N
+APR,Woolworths (Pty) Ltd,B,Pullover,5,AUTO,ANS,Crew Neck,Cable/Aran,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,6,AUTO,ANS,Crew Neck,Cable/Aran,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,7,AUTO,ANS,Crew Neck,Cable/Aran,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,8,AUTO,ANS,Turtle Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,9,AUTO,ANS,Turtle Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Cardigan,1,AUTO,ANS,V-Neck,Jersey,NYLON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Boat Neck,Rib,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Boat Neck,Rib,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,Not Applicable,Rib,ACRYLIC_BLENDS,N
+CNT,Bonobos (US),C1,Pullover,1,AUTO,ANS,High Crew Neck,Jacquard,COTTON,N
+CNT,R&D Testing,B,Pullover,1,AUTO,FKL,Crew Neck,Tuck,LAMBSWOOL,N
+CNT,Woolworths (Pty) Ltd,C1,Pullover,1,HF,US1,High Crew Neck,Stripes,LAMBSWOOL,N
+CNT,MOSS BROS,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Pullover,1,HF,US1,High Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+APR,Lacoste,C1,Pullover,1,AUTO,FKL,Crew Neck,Jacquard,LAMBSWOOL,N
+APR,Lacoste,C1,Pullover,2,AUTO,FKL,Crew Neck,Jacquard,LAMBSWOOL,Y
+APR,Lacoste,C1,Pullover,3,AUTO,ANS,Crew Neck,Jacquard,LAMBSWOOL,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,FKL,Crew Neck,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,FKL,Crew Neck,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,4,AUTO,FKL,Crew Neck,Tuck,COTTON,N
+APR,Woolworths (Pty) Ltd,B,Pullover,5,AUTO,FKL,Crew Neck,Tuck,COTTON,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,NYLON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,ALPACA BLENDS,N
+APR,Woolworths (Pty) Ltd,C1,Pullover,3,AUTO,ANS,High Crew Neck,Jersey,ALPACA BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,V-Neck,Double bed,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,V-Neck,Double bed,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Double bed,POLYESTER_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Polo Collar,Rib,NYLON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Polo Collar,Rib,NYLON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Polo Collar,Rib,NYLON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Swatch,4,AUTO,ANS,Not Applicable,Knit/purl,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Swatch,5,AUTO,ANS,Not Applicable,Jersey,VISCOSE_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Devred SAS,B,Pullover,1,AUTO,AJX,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,HF,US1,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Pullover,1,HF,US1,Shawl Collar,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Stripes,LAMBSWOOL_BLENDS,N
+CNT,MANGO,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+CNT,MANGO,B,Pullover,2,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Marks & Spencer Plc,C1,Pullover,1,AUTO,ANS,Polo Collar,Jersey,COTTON,N
+CNT,Marks & Spencer Plc,C1,Pullover,2,AUTO,ANS,Polo Collar,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,CASHMERE,N
+CNT,Marketing Trip,C1,Cardigan,1,AUTO,ANS,Shawl Collar,Tuck,MERINO,N
+CNT,Marketing Trip,C1,Cardigan,2,AUTO,ANS,Shawl Collar,Tuck,MERINO,N
+CNT,Edgars,B,Pullover,1,HF,US1,V-Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Hackett London Menswear Company,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Hackett London Menswear Company,C1,Pullover,2,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Hackett London Menswear Company,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,Y
+CNT,Hackett London Menswear Company,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL,N
+APR,Hackett London Menswear Company,C1,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL,Y
+CNT,Woolworths (Pty) Ltd,C2,Cardigan,1,AUTO,ANS,Hood,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,C2,Cardigan,2,AUTO,ANS,Hood,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,C2,Cardigan,3,AUTO,ANS,Hood,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,C2,Cardigan,4,AUTO,ANS,Hood,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,C2,Cardigan,5,AUTO,ANS,Hood,Tuck,COTTON,N
+APR,Woolworths (Pty) Ltd,C2,Cardigan,6,AUTO,ANS,Hood,Tuck,COTTON,Y
+CNT,Zadig & Voltaire,C2,Cardigan,1,AUTO,ANS,Hood,Jersey,CASHMERE,N
+APR,Zadig & Voltaire,C2,Cardigan,2,AUTO,ANS,Hood,Jersey,CASHMERE,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,HF,US1,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,HF,US1,Hood,Jersey,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C2,Pullover,2,HF,US1,Hood,Jersey,COTTON,N
+APR,Woolworths (Pty) Ltd,B,Pullover,3,HF,US1,Hood,Jersey,COTTON,Y
+APR,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Intarsia,LAMBSWOOL,N
+APR,Marks & Spencer Plc,B,Pullover,2,AUTO,ANS,Crew Neck,Intarsia,LAMBSWOOL,N
+CNT,Zadig & Voltaire,C1,Pullover,1,INTA,ANS,High Crew Neck,Intarsia,CASHMERE,N
+CNT,DIANA,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,DIANA,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Bonobo Planet,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON,N
+CNT,DIANA,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,C1,Cardigan,1,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marketing Trip,C1,Cardigan,2,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Zadig & Voltaire,C1,Swatch,1,AUTO,ANS,Not Applicable,Rib,CASHMERE,N
+CNT,Bonobo Planet,B,Pullover,1,HF,US1,Crew Neck,Tuck,POLYESTER_BLENDS,N
+CNT,AWAY,C2,Trousers,1,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,C2,Trousers,2,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,C2,Trousers,3,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,C2,Trousers,4,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,C2,Trousers,5,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,C2,Pullover,1,AUTO,ANS,Hood,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,C2,Pullover,2,AUTO,ANS,Hood,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,C2,Pullover,3,AUTO,ANS,Hood,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,C2,Pullover,4,AUTO,ANS,Hood,Jersey,CASHMERE_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,CASHMERE,N
+CNT,Next Retail Limited,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,CASHMERE,N
+CNT,Next Retail Limited,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,CASHMERE,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,COTTON,N
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,Crew Neck,Double bed,COTTON,N
+CNT,Zadig & Voltaire,B,Pullover,1,AUTO,ANS,Crew Neck,Double bed,COTTON,N
+APR,Zadig & Voltaire,C1,Pullover,2,AUTO,ANS,Crew Neck,Double bed,COTTON,N
+APR,Zadig & Voltaire,C1,Pullover,3,AUTO,ANS,Crew Neck,Double bed,COTTON,N
+APR,Zadig & Voltaire,C1,Pullover,4,AUTO,ANS,Crew Neck,Double bed,COTTON,Y
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,V-Neck,Double bed,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,V-Neck,Jersey,POLYESTER_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,ACRYLIC,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,ACRYLIC,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,ACRYLIC,N
+APR,Woolworths (Pty) Ltd,B,Pullover,4,HF,US1,Crew Neck,Jersey,ACRYLIC,N
+APR,Woolworths (Pty) Ltd,B,Pullover,5,AUTO,ANS,Crew Neck,Jersey,ACRYLIC,N
+APR,Woolworths (Pty) Ltd,B,Pullover,6,AUTO,ANS,Crew Neck,Jersey,ACRYLIC,Y
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,2,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,V-Neck,Jersey,MERINO,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Boat Neck,Jersey,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Collarless,Jersey,COTTON,N
+APR,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,Crew Neck,Intarsia,CASHMERE,Y
+CNT,Zadig & Voltaire,C1,Cardigan,1,AUTO,ANS,V-Neck,Double bed,COTTON,N
+APR,Zadig & Voltaire,C1,Cardigan,2,AUTO,ANS,V-Neck,Double bed,COTTON,N
+APR,Zadig & Voltaire,C1,Cardigan,3,AUTO,ANS,V-Neck,Double bed,COTTON,N
+APR,Zadig & Voltaire,C1,Cardigan,4,AUTO,ANS,V-Neck,Double bed,COTTON,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,V-Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,2,AUTO,ANS,V-Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,3,AUTO,ANS,V-Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,C2,Cardigan,4,AUTO,ANS,V-Neck,Jersey,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,C1,Cardigan,5,AUTO,ANS,V-Neck,Jersey,COTTON,N
+APR,Woolworths (Pty) Ltd,C1,Cardigan,6,AUTO,ANS,V-Neck,Jersey,COTTON,Y
+APR,Woolworths (Pty) Ltd,C1,Cardigan,7,AUTO,ANS,V-Neck,Jersey,COTTON,Y
+CNT,Woolworths (Pty) Ltd,C2,Cardigan,1,AUTO,ANS,V-Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,C2,Cardigan,2,AUTO,ANS,V-Neck,Jersey,COTTON,N
+APR,Zadig & Voltaire,C2,Cardigan,1,AUTO,ANS,Hood,Double bed,COTTON,Y
+CNT,DIANA,B,Pullover,1,AUTO,FKL,Crew Neck,Double bed,WOOL_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,V-Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Polo Collar,Jersey,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,WOOL_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Trousers,1,AUTO,ANS,Not Applicable,Jersey,MERINO_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Cawl Neck,Jersey,MERINO_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,ALPACA BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Dress,1,AUTO,ANS,Crew Neck,Jersey,CASHMERE,N
+CNT,Bonobo Planet,B,Pullover,1,AUTO,ANS,Turtle Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,Bonobo Planet,B,Pullover,2,AUTO,ANS,Turtle Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Double bed,VISCOSE_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Trousers,1,AUTO,ANS,Not Applicable,Double bed,VISCOSE_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Trousers,2,AUTO,ANS,Not Applicable,Double bed,VISCOSE_BLENDS,N
+CNT,Untuckit,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Untuckit,C1,Pullover,1,AUTO,ANS,GrandDad Collar,Jersey,COTTON_BLENDS,N
+CNT,Monoprix Exploitation,C1,Pullover,1,HF,US1,High Crew Neck,Jersey,ALPACA BLENDS,N
+CNT,Devred SAS,C2,Pullover,1,AUTO,ANS,Shawl Collar,Tuck,COTTON_BLENDS,N
+CNT,Devred SAS,C2,Pullover,2,AUTO,ANS,Shawl Collar,Tuck,COTTON_BLENDS,N
+CNT,Devred SAS,C1,Pullover,3,AUTO,ANS,Shawl Collar,Tuck,COTTON_BLENDS,N
+CNT,Devred SAS,C1,Pullover,4,AUTO,ANS,Shawl Collar,Tuck,COTTON_BLENDS,N
+APR,Devred SAS,C1,Pullover,5,AUTO,ANS,Shawl Collar,Tuck,COTTON_BLENDS,N
+APR,Devred SAS,C1,Pullover,6,AUTO,ANS,Shawl Collar,Tuck,COTTON_BLENDS,Y
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Turtle Neck,Tuck,COTTON_BLENDS,N
+CNT,Devred SAS,B,Pullover,2,AUTO,ANS,Turtle Neck,Tuck,COTTON_BLENDS,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Devred SAS,C1,Pullover,1,HF,US1,High Crew Neck,Jersey,CASHMERE_BLENDS,N
+CNT,Polo,C1,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Polo,C1,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Polo,C1,Pullover,3,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Polo,C1,Pullover,4,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+CNT,Polo,C2,Cardigan,1,AUTO,ANS,Hood,Tuck,COTTON,N
+CNT,Polo,C2,Cardigan,2,AUTO,ANS,Hood,Tuck,COTTON,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,AJX,Crew Neck,Intarsia,LAMBSWOOL_BLENDS,N
+APR,Next Retail Limited,B,Pullover,1,AUTO,AJX,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+APR,Next Retail Limited,B,Pullover,2,AUTO,AJX,Crew Neck,Jacquard,ACRYLIC_BLENDS,Y
+CNT,Lacoste,B,Swatch,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Lacoste,B,Swatch,2,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Swatch,3,AUTO,ANS,Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Lacoste,B,Not Applicable,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,C1,Pullover,1,AUTO,ANS,High Crew Neck,Rib,NYLON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Pullover,2,AUTO,ANS,High Crew Neck,Rib,NYLON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Cardigan,1,AUTO,ANS,Shawl Collar,Tuck,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Cardigan,2,AUTO,ANS,Shawl Collar,Tuck,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Stripes,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Stripes,COTTON,N
+CNT,DIANA,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,DIANA,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,DIANA,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,DIANA,B,Pullover,2,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,DIANA,B,Pullover,3,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,DIANA,B,Pullover,4,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,DIANA,B,Pullover,5,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Not Applicable,1,AUTO,ANS,Not Applicable,Jacquard,COTTON,N
+CNT,Lacoste,B,Not Applicable,2,AUTO,ANS,Not Applicable,Jacquard,COTTON,N
+CNT,Devred SAS,B,Pullover,1,HF,AJX,V-Neck,Jersey,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,HF,AJX,V-Neck,Jersey,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,HF,AJX,Crew Neck,Jersey,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Knit/purl,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Knit/purl,COTTON,N
+CNT,Devred SAS,C2,Pullover,1,AUTO,AJX,Crew Neck,Jacquard,COTTON,N
+CNT,Devred SAS,C2,Pullover,1,AUTO,AJX,Crew Neck,Double bed,COTTON,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,AJX,Crew Neck,Double bed,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Knit/purl,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Tuck,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Tuck,COTTON,N
+CNT,Devred SAS,C2,Pullover,1,AUTO,AJX,Crew Neck,Double bed,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Polo Collar,Tuck,COTTON_BLENDS,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,AJX,Polo Collar,Tuck,COTTON_BLENDS,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Polo Collar,Tuck,COTTON_BLENDS,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,AJX,Polo Collar,Tuck,COTTON_BLENDS,N
+CNT,Devred SAS,C2,Pullover,1,AUTO,AJX,High Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,AJX,High Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,V-Neck,Tuck,COTTON_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,AJX,V-Neck,Tuck,COTTON_BLENDS,N
+APR,Devred SAS,B,Pullover,2,AUTO,AJX,V-Neck,Tuck,COTTON,N
+APR,Devred SAS,B,Pullover,3,AUTO,AJX,V-Neck,Tuck,COTTON,Y
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Zadig & Voltaire,B,Not Applicable,1,AUTO,ANS,Not Applicable,Jacquard,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,C1,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,PICK N PAY,B,Pullover,1,HF,US1,Crew Neck,Jersey,RAYON_BLENDS,N
+CNT,PICK N PAY,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,HF,US1,Crew Neck,Jersey,VISCOSE_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,2,AUTO,FKL,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Marks & Spencer Plc,B,Swatch,1,HF,AJX,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Dress,1,AUTO,ANS,High Crew Neck,Rib,ACRYLIC_BLENDS,N
+CNT,DIANA,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,DIANA,B,Pullover,1,AUTO,ANS,Crew Neck,Double bed,MERINO_BLENDS,N
+CNT,DIANA,B,Pullover,2,AUTO,ANS,Crew Neck,Double bed,MERINO_BLENDS,N
+CNT,DIANA,B,Pullover,3,AUTO,ANS,Crew Neck,Double bed,MERINO_BLENDS,N
+CNT,DIANA,B,Pullover,4,AUTO,ANS,Crew Neck,Double bed,MERINO_BLENDS,N
+CNT,Cape Union Mart,B,Pullover,1,AUTO,ANS,Crew Neck,Lace,ACRYLIC_BLENDS,N
+CNT,Polo,B,Pullover,1,HF,US1,V-Neck,Jersey,MERINO,N
+APR,Polo,B,Pullover,2,HF,US1,V-Neck,Jersey,MERINO,Y
+CNT,Polo,C1,Pullover,1,AUTO,ANS,V-Neck,Tuck,COTTON,N
+APR,Polo,C1,Pullover,2,AUTO,ANS,V-Neck,Tuck,COTTON,Y
+CNT,Polo,C1,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Polo,C1,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+CNT,Polo,C1,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Polo,C1,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,Shawl Collar,Tuck,ACRYLIC_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Rib,COTTON,N
+CNT,Woolworths (Pty) Ltd,C1,Pullover,1,AUTO,ANS,High Crew Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Pullover,2,AUTO,ANS,High Crew Neck,Tuck,ACRYLIC_BLENDS,Y
+APR,Woolworths (Pty) Ltd,C1,Pullover,3,AUTO,ANS,High Crew Neck,Tuck,ACRYLIC_BLENDS,Y
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Stripes,VISCOSE_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Polo Collar,Stripes,COTTON_BLENDS,N
+CNT,Marks & Spencer Plc,C1,Pullover,1,AUTO,ANS,Polo Collar,Stripes,COTTON_BLENDS,N
+CNT,Marks & Spencer Plc,C1,Pullover,1,AUTO,ANS,GrandDad Collar,Jersey,COTTON_BLENDS,N
+CNT,Marks & Spencer Plc,C2,Cardigan,1,AUTO,ANS,GrandDad Collar,Jersey,POLYESTER_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Knitted Collar,Tuck,ACRYLIC_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Knitted Collar,Tuck,ACRYLIC_BLENDS,N
+CNT,Devred SAS,B,Pullover,2,AUTO,ANS,Knitted Collar,Tuck,ACRYLIC_BLENDS,N
+CNT,Marks & Spencer Plc,C2,Cardigan,1,AUTO,ANS,Polo Collar,Jersey,COTTON,N
+CNT,DIANA,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Monoprix Exploitation,B,Pullover,1,AUTO,FKL,Crew Neck,Jacquard,LAMBSWOOL_BLENDS,N
+APR,Monoprix Exploitation,B,Pullover,2,AUTO,ANS,Crew Neck,Jacquard,LAMBSWOOL_BLENDS,N
+APR,Monoprix Exploitation,B,Pullover,3,AUTO,ANS,Crew Neck,Jacquard,LAMBSWOOL_BLENDS,Y
+CNT,Monoprix Exploitation,B,Pullover,1,AUTO,FKL,Crew Neck,Jacquard,LAMBSWOOL_BLENDS,N
+APR,Monoprix Exploitation,B,Pullover,2,AUTO,ANS,Crew Neck,Jacquard,LAMBSWOOL_BLENDS,N
+APR,Monoprix Exploitation,B,Pullover,3,AUTO,ANS,Crew Neck,Jacquard,LAMBSWOOL_BLENDS,Y
+APR,Bonobo Planet,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Bonobo Planet,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Bonobo Planet,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,Y
+APR,Polo,B,Pullover,1,HF,US1,V-Neck,Jersey,COTTON,Y
+CNT,Marks & Spencer Plc,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Tuck,ACRYLIC,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,High Crew Neck,Tuck,ACRYLIC,N
+APR,Stockomani,C1,Pullover,1,HF,AJX,High Crew Neck,Jersey,VISCOSE_BLENDS,N
+APR,Stockomani,C1,Pullover,1,HF,AJX,V-Neck,Jersey,VISCOSE_BLENDS,N
+APR,Stockomani,B,Pullover,2,HF,AJX,V-Neck,Jersey,VISCOSE_BLENDS,N
+CNT,Devred SAS,C1,Pullover,1,HF,AJX,V-Neck,Jersey,COTTON,N
+CNT,Devred SAS,B,Pullover,2,HF,AJX,V-Neck,Jersey,COTTON,N
+CNT,Devred SAS,B,Pullover,1,HF,AJX,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Crew Neck,Knit/purl,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Crew Neck,Tuck,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Double bed,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Knit/purl,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Crew Neck,Intarsia,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Crew Neck,Stripes,COTTON,N
+CNT,Pringle,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,INTA,FKL,Crew Neck,Intarsia,COTTON,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,ANS,V-Neck,Stripes,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,V-Neck,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Crew Neck,Tuck,COTTON,N
+CNT,GUESS,B,Pullover,1,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Stockomani,C1,Pullover,1,HF,AJX,V-Neck,Jersey,COTTON,N
+CNT,Stockomani,C1,Not Applicable,2,HF,AJX,Not Applicable,Jersey,COTTON,N
+APR,Stockomani,C1,Pullover,3,HF,AJX,V-Neck,Jersey,COTTON,N
+APR,Stockomani,B,Pullover,4,HF,AJX,V-Neck,Jersey,COTTON,Y
+CNT,GUESS,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON,N
+CNT,GUESS,C2,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,GUESS,C1,Pullover,1,AUTO,ANS,V-Neck,Jersey,POLYESTER_BLENDS,N
+CNT,GUESS,C1,Pullover,2,AUTO,ANS,V-Neck,Jersey,POLYESTER_BLENDS,N
+CNT,GUESS,B,Pullover,1,AUTO,ANS,Crew Neck,Intarsia,POLYESTER_BLENDS,N
+CNT,GUESS,B,Pullover,2,AUTO,ANS,Crew Neck,Intarsia,POLYESTER_BLENDS,N
+CNT,GUESS,B,Pullover,1,AUTO,ANS,U-Shape Neck,Rib,VISCOSE_BLENDS,N
+CNT,GUESS,B,Pullover,2,AUTO,ANS,U-Shape Neck,Rib,VISCOSE_BLENDS,N
+CNT,GUESS,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,VISCOSE_BLENDS,N
+CNT,Country Road Clothing PTY Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,Y
+CNT,Country Road Clothing PTY Ltd,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,MERINO,Y
+CNT,Country Road Clothing PTY Ltd,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,MERINO,Y
+CNT,DIANA,C1,Cardigan,1,AUTO,ANS,V-Neck,Double bed,WOOL_BLENDS,N
+CNT,DIANA,C1,Cardigan,2,AUTO,ANS,V-Neck,Double bed,WOOL_BLENDS,N
+CNT,DIANA,B,Pullover,1,AUTO,ANS,High Crew Neck,Double bed,MERINO_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,VISCOSE_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,V-Neck,Jersey,VISCOSE_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,V-Neck,Jersey,VISCOSE_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,4,AUTO,ANS,V-Neck,Jersey,VISCOSE_BLENDS,Y
+APR,Woolworths (Pty) Ltd,B,Pullover,5,AUTO,ANS,V-Neck,Jersey,VISCOSE_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Double bed,VISCOSE_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,High Crew Neck,Double bed,VISCOSE_BLENDS,N
+CNT,Marks & Spencer Plc,C2,Cardigan,1,AUTO,AJX,Polo Collar,Double bed,COTTON,Y
+APR,Marks & Spencer Plc,C2,Cardigan,2,AUTO,AJX,Polo Collar,Double bed,COTTON,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,VISCOSE_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,VISCOSE_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,VISCOSE_BLENDS,Y
+APR,Woolworths (Pty) Ltd,B,Pullover,4,AUTO,ANS,Crew Neck,Jersey,VISCOSE_BLENDS,N
+CNT,Stockomani,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Stockomani,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Stockomani,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Stockomani,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Stockomani,B,Pullover,3,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Stockomani,B,Pullover,4,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Stockomani,B,Pullover,5,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+APR,Cape Union Mart,B,Pullover,1,HF,US1,V-Neck,Jersey,COTTON,N
+APR,Cape Union Mart,B,Pullover,2,HF,US1,V-Neck,Jersey,COTTON,N
+CNT,Cape Union Mart,B,Pullover,1,AUTO,FKL,Crew Neck,Tuck,COTTON,N
+APR,Cape Union Mart,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+CNT,Cape Union Mart,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Tommy Hilfiger,B,Pullover,2,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Tommy Hilfiger,B,Pullover,3,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Tommy Hilfiger,B,Pullover,4,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Tommy Hilfiger,B,Pullover,5,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Tommy Hilfiger,B,Pullover,6,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,ACRYLIC_BLENDS,N
+APR,Bonobos (US),C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,Y
+APR,Bonobos (US),B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,COTTON,Y
+APR,Woolworths (Pty) Ltd,B,Tops,1,AUTO,ANS,V-Neck,Jersey,LINEN_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Tops,2,AUTO,ANS,V-Neck,Jersey,LINEN_BLENDS,Y
+CNT,DIANA,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,VISCOSE_BLENDS,N
+CNT,GUESS,B,Dress,1,AUTO,ANS,High Crew Neck,Rib,RAYON_BLENDS,N
+CNT,GUESS,B,Dress,1,AUTO,ANS,Crew Neck,Jersey,RAYON_BLENDS,N
+CNT,GUESS,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,VISCOSE,N
+CNT,GUESS,B,Dress,1,AUTO,ANS,High Crew Neck,Rib,RAYON_BLENDS,N
+CNT,GUESS,B,Dress,1,AUTO,ANS,High Crew Neck,Jersey,VISCOSE_BLENDS,N
+CNT,Lacoste,C1,Pullover,1,AUTO,FKL,Crew Neck,Double bed,MERINO_BLENDS,N
+CNT,Lacoste,C1,Pullover,2,AUTO,FKL,Crew Neck,Double bed,MERINO_BLENDS,N
+CNT,Lacoste,C1,Pullover,3,AUTO,FKL,Crew Neck,Double bed,MERINO_BLENDS,N
+CNT,Lacoste,C1,Pullover,4,AUTO,FKL,Crew Neck,Double bed,MERINO_BLENDS,N
+CNT,Lacoste,C1,Pullover,5,AUTO,FKL,Crew Neck,Double bed,MERINO_BLENDS,N
+CNT,Lacoste,C1,Pullover,6,AUTO,FKL,Crew Neck,Double bed,MERINO_BLENDS,N
+CNT,Lacoste,C1,Pullover,7,AUTO,ANS,Crew Neck,Double bed,MERINO_BLENDS,N
+CNT,GUESS,C1,Cardigan,1,AUTO,FKL,V-Neck,Plating,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Dress,1,AUTO,ANS,High Crew Neck,Jersey,VISCOSE_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Dress,2,AUTO,ANS,High Crew Neck,Jersey,VISCOSE_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Dress,3,AUTO,ANS,High Crew Neck,Jersey,VISCOSE_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Dress,4,AUTO,ANS,High Crew Neck,Jersey,VISCOSE_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Dress,1,AUTO,ANS,Crew Neck,Double bed,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Dress,2,AUTO,ANS,Crew Neck,Double bed,ACRYLIC_BLENDS,N
+CNT,Superbalist,B,Dress,1,AUTO,ANS,High Crew Neck,Jersey,COTTON,N
+CNT,Superbalist,B,Dress,2,AUTO,ANS,High Crew Neck,Jersey,COTTON,N
+CNT,Superbalist,B,Dress,1,AUTO,ANS,High Crew Neck,Rib,COTTON,N
+CNT,Superbalist,B,Dress,2,AUTO,ANS,High Crew Neck,Rib,COTTON,N
+CNT,Superbalist,B,Dress,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Superbalist,B,Dress,2,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Superbalist,B,Dress,1,HF,US1,High Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Lacoste,C1,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Lacoste,C1,Pullover,2,AUTO,FKL,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Lacoste,C1,Pullover,3,AUTO,FKL,Crew Neck,Plating,COTTON_BLENDS,N
+CNT,Lacoste,C1,Pullover,4,AUTO,FKL,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Lacoste,C1,Pullover,5,AUTO,FKL,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Lacoste,B,Pullover,6,AUTO,FKL,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Lacoste,B,Pullover,7,AUTO,FKL,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Lacoste,C1,Pullover,8,AUTO,FKL,Crew Neck,Jersey,COTTON_BLENDS,N
+APR,Lacoste,C1,Pullover,9,AUTO,FKL,Crew Neck,Jersey,COTTON_BLENDS,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Stripes,ACRYLIC,N
+CNT,Woolworths (Pty) Ltd,B,Dress,1,AUTO,ANS,Turtle Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Dress,2,AUTO,ANS,Turtle Neck,Tuck,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Dress,3,AUTO,ANS,High Crew Neck,Tuck,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Dress,4,AUTO,ANS,High Crew Neck,Tuck,ACRYLIC_BLENDS,Y
+CNT,Woolworths (Pty) Ltd,B,Dress,1,AUTO,ANS,Turtle Neck,Cable/Aran,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,4,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,5,HF,US1,High Crew Neck,Jersey,ACRYLIC_BLENDS,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,4,AUTO,ANS,Crew Neck,Jersey,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,5,AUTO,ANS,High Crew Neck,Jersey,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,6,AUTO,ANS,High Crew Neck,Jersey,RAYON_BLENDS,Y
+APR,Woolworths (Pty) Ltd,B,Pullover,7,AUTO,ANS,High Crew Neck,Jersey,RAYON_BLENDS,Y
+APR,Woolworths (Pty) Ltd,B,Pullover,8,AUTO,ANS,High Crew Neck,Jersey,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,9,AUTO,ANS,High Crew Neck,Jersey,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Cardigan,1,AUTO,ANS,High Crew Neck,Tuck,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Cardigan,2,AUTO,ANS,High Crew Neck,Tuck,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,3,AUTO,ANS,High Crew Neck,Tuck,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,C1,Cardigan,4,AUTO,ANS,V-Neck,Rib,RAYON_BLENDS,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Stripes,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,High Crew Neck,Jacquard,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,High Crew Neck,Jacquard,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,4,AUTO,ANS,High Crew Neck,Jacquard,RAYON_BLENDS,Y
+CNT,GUESS,B,Pullover,1,AUTO,ANS,Crew Neck,Intarsia,COTTON,N
+CNT,GUESS,B,Pullover,1,AUTO,ANS,Crew Neck,Stripes,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,Y
+APR,Woolworths (Pty) Ltd,B,Pullover,4,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Bonobo Planet,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Bonobo Planet,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+APR,Bonobo Planet,B,Pullover,3,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,Y
+APR,Bonobo Planet,B,Pullover,4,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,GUESS,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Bonobo Planet,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Bonobo Planet,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON,N
+CNT,Bonobo Planet,B,Pullover,2,HF,US1,Crew Neck,Tuck,COTTON,N
+APR,Bonobo Planet,B,Pullover,3,HF,US1,Crew Neck,Tuck,COTTON,N
+APR,Bonobo Planet,B,Pullover,4,HF,US1,Crew Neck,Tuck,COTTON,Y
+CNT,Marks & Spencer Plc,B,Not Applicable,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Not Applicable,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Not Applicable,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Not Applicable,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Not Applicable,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+APR,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,CASHMERE,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,V-Neck,Rib,RAYON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,2,AUTO,ANS,V-Neck,Rib,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,C1,Cardigan,3,AUTO,ANS,V-Neck,Rib,RAYON_BLENDS,N
+APR,Woolworths (Pty) Ltd,C1,Cardigan,4,AUTO,ANS,V-Neck,Rib,RAYON_BLENDS,Y
+APR,Woolworths (Pty) Ltd,C1,Cardigan,5,AUTO,ANS,V-Neck,Rib,RAYON_BLENDS,Y
+APR,Woolworths (Pty) Ltd,C1,Cardigan,6,AUTO,ANS,V-Neck,Rib,RAYON_BLENDS,N
+CNT,Devred SAS,C1,Cardigan,1,HF,AJX,Shawl Collar,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Cape Union Mart,B,Pullover,1,HF,US1,V-Neck,Jersey,COTTON,N
+CNT,Cape Union Mart,B,Pullover,2,HF,US1,V-Neck,Jersey,COTTON,N
+CNT,Cape Union Mart,B,Pullover,3,HF,US1,V-Neck,Jersey,COTTON,N
+APR,Cape Union Mart,B,Pullover,4,HF,US1,V-Neck,Jersey,COTTON,Y
+APR,Cape Union Mart,B,Pullover,5,HF,US1,V-Neck,Jersey,COTTON,N
+APR,Cape Union Mart,B,Pullover,6,HF,US1,V-Neck,Jersey,COTTON,Y
+APR,Cape Union Mart,B,Pullover,7,HF,US1,V-Neck,Jersey,COTTON,Y
+APR,Cape Union Mart,B,Pullover,8,HF,US1,V-Neck,Jersey,COTTON,N
+CNT,Salsa,C1,Pullover,1,AUTO,FKL,Crew Neck,Cable/Aran,COTTON,N
+CNT,Cape Union Mart,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,C2,Pullover,1,AUTO,ANS,High Crew Neck,Cable/Aran,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C2,Pullover,2,AUTO,ANS,High Crew Neck,Cable/Aran,COTTON_BLENDS,N
+APR,Woolworths (Pty) Ltd,C2,Pullover,3,AUTO,ANS,High Crew Neck,Cable/Aran,COTTON_BLENDS,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,Y
+CNT,John Lewis Overseas Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,N
+APR,John Lewis Overseas Plc,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,Y
+CNT,John Lewis Overseas Plc,C1,Cardigan,1,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Cable/Aran,COTTON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Crew Neck,Cable/Aran,COTTON_BLENDS,Y
+CNT,Superbalist,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,COTTON_BLENDS,N
+CNT,Superbalist,B,Pullover,2,AUTO,ANS,Turtle Neck,Jersey,COTTON_BLENDS,N
+CNT,Superbalist,B,Pullover,1,AUTO,ANS,Turtle Neck,Rib,COTTON_BLENDS,N
+CNT,Zadig & Voltaire,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,CASHMERE,N
+CNT,STOCK ORDERS,B,Scarf,1,AUTO,FKL,Not Applicable,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Marks & Spencer Plc,C2,Cardigan,1,AUTO,AJX,Polo Collar,Double bed,COTTON_BLENDS,Y
+APR,Marks & Spencer Plc,B,Cardigan,2,AUTO,AJX,Polo Collar,Double bed,COTTON_BLENDS,Y
+APR,Marks & Spencer Plc,B,Cardigan,3,AUTO,AJX,Polo Collar,Double bed,COTTON_BLENDS,N
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,Hood,Double bed,COTTON,N
+CNT,Marks & Spencer Plc,C2,Cardigan,1,AUTO,AJX,Polo Collar,Double bed,COTTON_BLENDS,N
+CNT,Marks & Spencer Plc,C2,Cardigan,2,AUTO,AJX,Polo Collar,Double bed,COTTON_BLENDS,N
+APR,Marks & Spencer Plc,C2,Cardigan,3,AUTO,AJX,Polo Collar,Double bed,COTTON_BLENDS,Y
+CNT,Marks & Spencer Plc,C2,Cardigan,1,AUTO,AJX,GrandDad Collar,Double bed,COTTON_BLENDS,N
+APR,Marks & Spencer Plc,C2,Cardigan,2,AUTO,AJX,GrandDad Collar,Double bed,COTTON_BLENDS,Y
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Stripes,COTTON,N
+APR,Devred SAS,C1,Pullover,2,HF,AJX,Crew Neck,Stripes,COTTON,Y
+APR,Devred SAS,C1,Pullover,3,HF,AJX,Crew Neck,Stripes,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Stripes,COTTON,N
+APR,Devred SAS,C1,Pullover,2,AUTO,AJX,Crew Neck,Stripes,COTTON,N
+CNT,Lacoste,C1,Bonnet,1,AUTO,ANS,Not Applicable,Tuck,COTTON,N
+CNT,Lacoste,C1,Bonnet,2,AUTO,ANS,Not Applicable,Tuck,COTTON,N
+CNT,Lacoste,C1,Bonnet,3,AUTO,ANS,Not Applicable,Tuck,COTTON,N
+CNT,Lacoste,C1,Bonnet,4,AUTO,ANS,Not Applicable,Tuck,COTTON,N
+CNT,Lacoste,C1,Bonnet,5,AUTO,ANS,Not Applicable,Tuck,COTTON,N
+CNT,Superbalist,C1,Cardigan,1,AUTO,ANS,Not Applicable,Jersey,COTTON_BLENDS,N
+CNT,ZIPPY,C2,Cardigan,1,AUTO,ANS,Tunisian collar,Knit/purl,COTTON,N
+CNT,ZIPPY,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,ZIPPY,B,Pullover,2,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Cape Union Mart,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Cape Union Mart,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Cape Union Mart,B,Pullover,3,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+APR,Cape Union Mart,B,Pullover,4,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Cape Union Mart,B,Pullover,5,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+APR,Cape Union Mart,B,Pullover,6,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+CNT,Marketing Trip,B,Pullover,1,HF,US1,V-Neck,Jersey,COTTON,N
+CNT,PICK N PAY,B,Pullover,1,AUTO,FKL,Crew Neck,Rib,COTTON_BLENDS,N
+CNT,Cape Union Mart,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Cape Union Mart,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,CASHMERE,N
+CNT,Zadig & Voltaire,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,CASHMERE,N
+CNT,Zadig & Voltaire,B,Cardigan,1,AUTO,FKL,Hood,Double bed,COTTON,N
+CNT,Zadig & Voltaire,C2,Cardigan,2,AUTO,FKL,Hood,Double bed,COTTON,N
+CNT,Zadig & Voltaire,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,CASHMERE,N
+CNT,Woolworths (Pty) Ltd,B,Dress,1,AUTO,ANS,High Crew Neck,Rib,COTTON_BLENDS,N
+CNT,Salsa,B,Pullover,1,AUTO,AJX,Crew Neck,Knit/purl,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Stripes,COTTON,N
+APR,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Stripes,COTTON,Y
+CNT,Zadig & Voltaire,B,Swatch,1,AUTO,FKL,Not Applicable,Double bed,COTTON,N
+CNT,Zadig & Voltaire,B,Swatch,2,AUTO,FKL,Not Applicable,Double bed,COTTON,N
+APR,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,COTTON,N
+APR,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,V-Neck,Jersey,COTTON,N
+APR,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,V-Neck,Jersey,COTTON,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+APR,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,COTTON,Y
+APR,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,V-Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Rib,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,Y
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,Not Applicable,Tuck,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,2,AUTO,ANS,Not Applicable,Tuck,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Cardigan,3,AUTO,ANS,Not Applicable,Tuck,ACRYLIC_BLENDS,Y
+CNT,Woolworths (Pty) Ltd,C2,Pullover,1,AUTO,ANS,Hood,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,C2,Pullover,2,AUTO,ANS,Hood,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,C2,Pullover,3,AUTO,ANS,Hood,Jersey,COTTON,N
+CNT,DIANA,B,Pullover,1,AUTO,FKL,Crew Neck,Double bed,WOOL_BLENDS,N
+CNT,DIANA,B,Pullover,2,AUTO,FKL,Crew Neck,Double bed,WOOL_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C2,Pullover,1,AUTO,ANS,Hood,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,C2,Pullover,2,AUTO,ANS,Hood,Jersey,COTTON,N
+APR,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO_BLENDS,Y
+CNT,DIANA,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,DIANA,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Knit/purl,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Crew Neck,Knit/purl,COTTON,N
+APR,Woolworths (Pty) Ltd,B,Pullover,4,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Woolworths (Pty) Ltd,B,Pullover,5,AUTO,ANS,Crew Neck,Tuck,ACRYLIC_BLENDS,Y
+CNT,Lacoste,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,WOOL_BLENDS,N
+CNT,Lacoste,B,Pullover,2,AUTO,ANS,Crew Neck,Cable/Aran,WOOL_BLENDS,N
+CNT,Lacoste,B,Pullover,3,AUTO,ANS,Crew Neck,Cable/Aran,WOOL_BLENDS,N
+CNT,Lacoste,B,Pullover,4,AUTO,ANS,Crew Neck,Cable/Aran,WOOL_BLENDS,N
+CNT,Lacoste,B,Swatch,1,AUTO,FKL,Not Applicable,Jersey,COTTON_BLENDS,N
+CNT,Lacoste,B,Not Applicable,1,AUTO,FKL,Crew Neck,Double bed,COTTON_BLENDS,N
+CNT,Lacoste,B,Not Applicable,2,AUTO,FKL,Crew Neck,Double bed,COTTON_BLENDS,N
+CNT,Lacoste,B,Not Applicable,3,AUTO,FKL,Crew Neck,Double bed,COTTON_BLENDS,N
+CNT,Lacoste,B,Not Applicable,4,AUTO,FKL,Not Applicable,Double bed,COTTON_BLENDS,N
+CNT,Lacoste,B,Not Applicable,5,AUTO,FKL,Not Applicable,Double bed,COTTON_BLENDS,N
+CNT,Lacoste,B,Not Applicable,6,AUTO,FKL,Not Applicable,Double bed,COTTON_BLENDS,N
+CNT,Lacoste,B,Not Applicable,7,AUTO,FKL,Not Applicable,Double bed,COTTON_BLENDS,N
+CNT,Lacoste,B,Pullover,8,AUTO,FKL,Crew Neck,Double bed,COTTON_BLENDS,N
+CNT,Lacoste,B,Pullover,9,AUTO,FKL,Crew Neck,Double bed,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Pullover,1,AUTO,ANS,Shawl Collar,Tuck,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Pullover,2,AUTO,ANS,Shawl Collar,Tuck,ACRYLIC_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,GUESS,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,ACRYLIC_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,GUESS,C1,Pullover,1,AUTO,FKL,High Crew Neck,Plating,ACRYLIC_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,V-Neck,Stripes,LAMBSWOOL_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,FKL,Crew Neck,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,FKL,Crew Neck,Tuck,COTTON,N
+APR,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,LAMBSWOOL_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON,N
+CNT,Devred SAS,B,Pullover,2,HF,US1,Crew Neck,Tuck,COTTON,N
+APR,Devred SAS,B,Pullover,3,AUTO,ANS,V-Neck,Tuck,COTTON,Y
+APR,Devred SAS,B,Pullover,4,AUTO,ANS,V-Neck,Tuck,COTTON,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Devred SAS,B,Pullover,2,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Devred SAS,B,Pullover,3,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,ACRYLIC_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,V-Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Lacoste,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON,N
+APR,Lacoste,B,Pullover,1,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Marketing Trip,C2,Pullover,1,AUTO,ANS,High Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,COTTON_BLENDS,Y
+CNT,Zadig & Voltaire,C1,Cardigan,1,AUTO,ANS,Hood,Jersey,CASHMERE,N
+CNT,Zadig & Voltaire,C1,Cardigan,2,AUTO,ANS,Hood,Jersey,CASHMERE,N
+CNT,Marks & Spencer Plc,B,Not Applicable,1,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Not Applicable,1,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Superbalist,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,COTTON,Y
+CNT,Superbalist,B,Pullover,2,AUTO,ANS,Crew Neck,Cable/Aran,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,DIANA,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,V-Neck,Knit/purl,COTTON,N
+CNT,Devred SAS,B,Pullover,2,AUTO,ANS,V-Neck,Knit/purl,COTTON,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Tommy Hilfiger,B,Pullover,2,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Tommy Hilfiger,B,Pullover,3,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Tommy Hilfiger,B,Pullover,4,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Superbalist,B,Pullover,1,HF,US1,High Crew Neck,Tuck,COTTON,N
+CNT,Cape Union Mart,B,Pullover,1,AUTO,FKL,Crew Neck,Stripes,COTTON_BLENDS,N
+CNT,Cape Union Mart,B,Pullover,2,AUTO,FKL,Crew Neck,Stripes,COTTON_BLENDS,N
+APR,Cape Union Mart,B,Pullover,3,AUTO,ANS,Crew Neck,Stripes,COTTON_BLENDS,Y
+APR,Cape Union Mart,B,Pullover,4,AUTO,ANS,Crew Neck,Stripes,COTTON_BLENDS,N
+CNT,GUESS,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,POLYESTER_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Rib,ACRYLIC,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,ACRYLIC,N
+CNT,Marks & Spencer Plc,B,Not Applicable,1,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Woolworths (Pty) Ltd,C2,Cardigan,1,AUTO,ANS,Hood,Jersey,COTTON_BLENDS,N
+CNT,NVI,B,Mask,1,HF,AJX,Not Applicable,Jersey,COTTON_BLENDS,Y
+CNT,NVI,B,Mask,2,HF,AJX,Not Applicable,Jersey,COTTON_BLENDS,N
+CNT,NVI,B,Mask,3,HF,AJX,Not Applicable,Jersey,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,HF,US1,V-Neck,Jersey,COTTON,N
+APR,Zadig & Voltaire,C2,Cardigan,1,AUTO,ANS,Hood,Jersey,CASHMERE,Y
+CNT,Cape Union Mart,B,Pullover,1,AUTO,ANS,Turtle Neck,Tuck,COTTON,N
+APR,Zadig & Voltaire,C1,Cardigan,1,AUTO,ANS,Hood,Rib,CASHMERE,Y
+CNT,Cape Union Mart,C2,Cardigan,1,AUTO,ANS,High Crew Neck,Tuck,COTTON,N
+CNT,Cape Union Mart,C2,Cardigan,2,AUTO,ANS,High Crew Neck,Tuck,COTTON,N
+CNT,Cape Union Mart,C2,Cardigan,3,AUTO,ANS,High Crew Neck,Tuck,COTTON,N
+APR,Lacoste,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+CNT,Cape Union Mart,C2,Pullover,1,HF,US1,High Crew Neck,Tuck,COTTON,N
+CNT,Cape Union Mart,C2,Pullover,2,HF,US1,High Crew Neck,Tuck,COTTON,N
+CNT,Cape Union Mart,C1,Pullover,3,HF,US1,High Crew Neck,Tuck,COTTON,N
+APR,Cape Union Mart,C1,Pullover,4,HF,US1,High Crew Neck,Tuck,COTTON,N
+APR,Cape Union Mart,C1,Pullover,5,HF,US1,High Crew Neck,Tuck,COTTON,Y
+CNT,Cape Union Mart,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,COTTON,N
+CNT,Cape Union Mart,B,Pullover,2,AUTO,ANS,Crew Neck,Cable/Aran,COTTON,N
+CNT,Lacoste,B,Pullover,1,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,2,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,3,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,4,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,5,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,6,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,7,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,8,AUTO,FKL,Not Applicable,Jersey,MERINO,N
+APR,Lacoste,C1,Pullover,9,AUTO,FKL,V-Neck,Jersey,MERINO,N
+APR,Lacoste,C2,Pullover,10,AUTO,FKL,V-Neck,Jersey,MERINO,Y
+CNT,Cape Union Mart,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Cape Union Mart,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Cape Union Mart,B,Pullover,3,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+APR,Cape Union Mart,B,Pullover,4,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+APR,Cape Union Mart,B,Pullover,5,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+APR,Cape Union Mart,B,Pullover,6,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Cape Union Mart,B,Pullover,1,AUTO,FKL,Crew Neck,Knit/purl,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,Not Applicable,Jersey,ACRYLIC,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,2,AUTO,ANS,Not Applicable,Jersey,ACRYLIC,N
+CNT,Zadig & Voltaire,B,Pullover,1,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Zadig & Voltaire,B,Pullover,2,AUTO,FKL,Not Applicable,Jersey,MERINO,N
+CNT,Zadig & Voltaire,B,Pullover,3,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Cape Union Mart,C1,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+CNT,Cape Union Mart,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+APR,Cape Union Mart,C1,Pullover,3,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Peter Millar,C1,Pullover,1,AUTO,ANS,High Crew Neck,Tuck,WOOL_BLENDS,N
+CNT,Peter Millar,C1,Pullover,2,AUTO,ANS,Not Applicable,Tuck,WOOL_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C2,Trousers,1,AUTO,FKL,Not Applicable,Jersey,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C2,Trousers,2,AUTO,FKL,Not Applicable,Jersey,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Dress,2,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Dress,3,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,4,AUTO,ANS,Not Applicable,Jersey,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,5,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,6,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,7,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,Y
+APR,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,COTTON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,V-Neck,Jersey,COTTON_BLENDS,N
+CNT,Zadig & Voltaire,B,Pullover,1,AUTO,ANS,Crew Neck,Stripes,CASHMERE,N
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,FKL,Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Lacoste,B,Pullover,1,AUTO,FKL,High Crew Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,2,AUTO,FKL,Turtle Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,3,AUTO,FKL,High Crew Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,4,AUTO,FKL,Turtle Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,5,AUTO,FKL,Turtle Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,6,AUTO,FKL,Turtle Neck,Jersey,MERINO,N
+APR,Lacoste,C1,Pullover,7,AUTO,FKL,High Crew Neck,Jersey,MERINO,N
+APR,Lacoste,C2,Pullover,8,AUTO,FKL,High Crew Neck,Jersey,MERINO,Y
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,FKL,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,FKL,Crew Neck,Jacquard,MERINO_BLENDS,N
+CNT,Tommy Hilfiger,C1,Pullover,2,AUTO,FKL,Crew Neck,Jacquard,MERINO_BLENDS,N
+APR,Tommy Hilfiger,C1,Pullover,3,AUTO,FKL,Crew Neck,Jacquard,MERINO_BLENDS,N
+APR,Tommy Hilfiger,C1,Pullover,4,AUTO,FKL,Crew Neck,Jacquard,MERINO_BLENDS,N
+CNT,Tommy Hilfiger,C1,Pullover,5,AUTO,ANS,Crew Neck,Jacquard,MERINO_BLENDS,N
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,Hood,Intarsia,CASHMERE,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,AJX,Crew Neck,Intarsia,COTTON,N
+CNT,Next Retail Limited,C2,Pullover,1,AUTO,AJX,Polo Collar,Rib,VISCOSE_BLENDS,N
+CNT,Bonobo Planet,B,Pullover,1,AUTO,FKL,Crew Neck,Stripes,COTTON_BLENDS,N
+CNT,Superbalist,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,AJX,Crew Neck,Tuck,COTTON,N
+CNT,Next Retail Limited,C2,Pullover,1,HF,AJX,High Crew Neck,Jersey,COTTON,N
+CNT,MOSS BROS,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,N
+APR,MOSS BROS,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,Y
+APR,MOSS BROS,B,Swatch,3,AUTO,ANS,Not Applicable,Jersey,COTTON_BLENDS,N
+CNT,Next Retail Limited,C2,Cardigan,1,AUTO,AJX,High Crew Neck,Tuck,COTTON,N
+CNT,MOSS BROS,C1,Cardigan,1,AUTO,ANS,GrandDad Collar,Tuck,MERINO_BLENDS,N
+CNT,MOSS BROS,C1,Pullover,1,AUTO,ANS,Polo Collar,Jersey,MERINO_BLENDS,N
+CNT,MOSS BROS,C1,Pullover,2,AUTO,ANS,Polo Collar,Jersey,TENCEL-BLENDS,N
+APR,MOSS BROS,C1,Swatch,3,AUTO,ANS,Not Applicable,Jersey,TENCEL-BLENDS,N
+APR,MOSS BROS,C1,Pullover,4,AUTO,ANS,Polo Collar,Jersey,TENCEL-BLENDS,Y
+APR,MOSS BROS,C1,Swatch,5,AUTO,ANS,Swatch,Jersey,TENCEL-BLENDS,N
+CNT,MOSS BROS,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,MOSS BROS,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,MOSS BROS,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,MOSS BROS,C1,Pullover,1,AUTO,ANS,Polo Collar,Jersey,COTTON_BLENDS,N
+CNT,MOSS BROS,C1,Pullover,2,AUTO,ANS,Polo Collar,Jersey,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,FKL,High Crew Neck,Jacquard,MERINO_BLENDS,N
+CNT,Marks & Spencer Plc,B,Not Applicable,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,COTTON,N
+CNT,Marks & Spencer Plc,B,Not Applicable,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,FKL,V-Neck,Jersey,MERINO_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Crew Neck,Tuck,COTTON,N
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,FKL,High Crew Neck,Rib,MERINO_BLENDS,N
+CNT,Tommy Hilfiger,C1,Pullover,2,AUTO,FKL,High Crew Neck,Rib,MERINO_BLENDS,N
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,CASHMERE,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Zadig & Voltaire,C1,Cardigan,1,AUTO,ANS,V-Neck,Jersey,CASHMERE,N
+CNT,Zadig & Voltaire,C1,Pullover,1,INTA,ANS,Crew Neck,Intarsia,CASHMERE,N
+CNT,Zadig & Voltaire,C1,Pullover,2,INTA,ANS,Crew Neck,Intarsia,CASHMERE,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,V-Neck,Jacquard,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,HF,US1,High Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,HF,US1,High Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,3,HF,US1,High Crew Neck,Tuck,COTTON_BLENDS,Y
+APR,Woolworths (Pty) Ltd,B,Pullover,4,HF,US1,High Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jacquard,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Cardigan,2,AUTO,ANS,Not Applicable,Jacquard,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Cardigan,3,AUTO,ANS,Not Applicable,Jacquard,ACRYLIC_BLENDS,N
+CNT,Marks & Spencer Plc,B,Not Applicable,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Lacoste,B,Pullover,1,AUTO,FKL,Crew Neck,Double bed,COTTON,N
+CNT,Lacoste,C1,Pullover,2,AUTO,ANS,Crew Neck,Double bed,COTTON,N
+CNT,Zadig & Voltaire,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,CASHMERE,N
+CNT,Zadig & Voltaire,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,CASHMERE,N
+CNT,Zadig & Voltaire,C1,Trousers,1,AUTO,FKL,Not Applicable,Jacquard,CASHMERE_BLENDS,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,SILK_BLENDS,N
+CNT,Lacoste,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+CNT,Lacoste,B,Bonnet,1,AUTO,ANS,Not Applicable,Tuck,COTTON,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,2,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,3,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,4,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Marks & Spencer Plc,C1,Cardigan,1,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Marks & Spencer Plc,C1,Cardigan,2,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Marks & Spencer Plc,C1,Cardigan,3,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,John Craig (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Stripes,COTTON,N
+CNT,Marks & Spencer Plc,B,Not Applicable,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,COTTON_BLENDS,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,COTTON_BLENDS,N
+CNT,Marketing Trip,C1,Pullover,2,AUTO,ANS,Crew Neck,Knit/purl,COTTON_BLENDS,N
+CNT,Lacoste,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Lacoste,C2,Cardigan,1,AUTO,ANS,V-Neck,Jersey,COTTON_BLENDS,N
+APR,Cape Union Mart,C1,Pullover,1,AUTO,ANS,Hood,Tuck,COTTON_BLENDS,N
+APR,Cape Union Mart,C1,Pullover,2,AUTO,ANS,Hood,Tuck,COTTON_BLENDS,N
+APR,Cape Union Mart,C1,Pullover,3,AUTO,ANS,Hood,Tuck,COTTON_BLENDS,N
+APR,Cape Union Mart,C1,Pullover,4,AUTO,ANS,Hood,Tuck,COTTON_BLENDS,N
+APR,Cape Union Mart,C1,Pullover,5,AUTO,ANS,Hood,Tuck,COTTON_BLENDS,Y
+CNT,Cape Union Mart,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+APR,Cape Union Mart,C1,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+CNT,Marketing Trip,B,Cardigan,1,AUTO,ANS,Not Applicable,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,1,AUTO,FKL,Crew Neck,Stripes,MERINO_BLENDS,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,FKL,Turtle Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,FKL,High Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Tommy Hilfiger,C1,Pullover,2,AUTO,ANS,Polo Collar,Jersey,MERINO_BLENDS,N
+CNT,Tommy Hilfiger,B,Not Applicable,3,AUTO,ANS,Not Applicable,Jersey,MERINO_BLENDS,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,2,HF,US1,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Cape Union Mart,B,Pullover,1,HF,US1,Crew Neck,Tuck,ACRYLIC_BLENDS,N
+APR,Cape Union Mart,B,Pullover,2,HF,US1,Crew Neck,Tuck,ACRYLIC_BLENDS,N
+APR,Cape Union Mart,B,Pullover,3,HF,US1,Crew Neck,Tuck,ACRYLIC_BLENDS,N
+APR,Cape Union Mart,B,Pullover,4,HF,US1,Crew Neck,Tuck,ACRYLIC_BLENDS,Y
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,Not Applicable,Cable/Aran,ACRYLIC_BLENDS,Y
+APR,Woolworths (Pty) Ltd,C1,Cardigan,2,AUTO,ANS,Not Applicable,Cable/Aran,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Dress,1,AUTO,ANS,High Crew Neck,Jersey,VISCOSE_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Dress,2,AUTO,ANS,High Crew Neck,Jersey,VISCOSE_BLENDS,Y
+APR,Woolworths (Pty) Ltd,B,Dress,3,AUTO,ANS,High Crew Neck,Jersey,VISCOSE_BLENDS,Y
+APR,Superbalist,B,Pullover,1,HF,US1,Turtle Neck,Jersey,COTTON,Y
+CNT,Woolworths (Pty) Ltd,C1,Pullover,1,AUTO,ANS,Hood,Jersey,RAYON_BLENDS,N
+APR,Superbalist,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,COTTON,Y
+APR,Superbalist,B,Pullover,1,HF,US1,High Crew Neck,Jersey,COTTON,Y
+APR,Superbalist,B,Pullover,2,HF,US1,High Crew Neck,Jersey,COTTON,N
+APR,Superbalist,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,Y
+APR,Superbalist,B,Pullover,2,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Turtle Neck,Cable/Aran,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Turtle Neck,Cable/Aran,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,High Crew Neck,Cable/Aran,ACRYLIC_BLENDS,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,Y
+APR,Woolworths (Pty) Ltd,B,Pullover,4,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,RODD & GUNN,C2,Pullover,1,AUTO,ANS,Hood,Jersey,COTTON,N
+CNT,RODD & GUNN,C2,Pullover,2,AUTO,ANS,Hood,Jersey,COTTON,N
+APR,RODD & GUNN,C2,Pullover,3,AUTO,ANS,Hood,Jersey,COTTON,Y
+CNT,RODD & GUNN,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,RODD & GUNN,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,COTTON,Y
+APR,RODD & GUNN,B,Pullover,3,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Cape Union Mart,B,Pullover,1,AUTO,ANS,Crew Neck,Stripes,COTTON_BLENDS,N
+APR,Cape Union Mart,B,Pullover,2,AUTO,ANS,Crew Neck,Stripes,COTTON_BLENDS,Y
+CNT,Lacoste,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,2,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,3,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,4,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,5,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+APR,Lacoste,C1,Pullover,6,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+APR,Lacoste,C1,Pullover,7,AUTO,FKL,Crew Neck,Jersey,MERINO,Y
+CNT,Lacoste,C2,Cardigan,1,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Lacoste,C2,Cardigan,2,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Lacoste,C2,Cardigan,3,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Lacoste,C2,Cardigan,4,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Lacoste,C2,Cardigan,5,AUTO,FKL,V-Neck,Jersey,MERINO,N
+APR,Lacoste,C2,Cardigan,6,AUTO,FKL,V-Neck,Jersey,MERINO,N
+APR,Lacoste,C1,Cardigan,7,AUTO,FKL,V-Neck,Jersey,MERINO,Y
+APR,Zadig & Voltaire,B,Pullover,1,AUTO,ANS,Crew Neck,Double bed,COTTON,Y
+APR,Zadig & Voltaire,B,Pullover,2,AUTO,ANS,Crew Neck,Double bed,COTTON,N
+CNT,Cape Union Mart,B,Pullover,1,HF,US1,Hood,Jersey,COTTON_BLENDS,N
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,FKL,V-Neck,Jersey,MERINO_BLENDS,N
+CNT,Tommy Hilfiger,C1,Pullover,2,AUTO,FKL,V-Neck,Jersey,MERINO_BLENDS,N
+APR,Tommy Hilfiger,C1,Pullover,3,AUTO,FKL,V-Neck,Jersey,MERINO_BLENDS,N
+APR,Tommy Hilfiger,C1,Pullover,4,AUTO,FKL,V-Neck,Jersey,MERINO_BLENDS,N
+CNT,Lacoste,B,Pullover,1,AUTO,FKL,Crew Neck,Cable/Aran,COTTON,N
+CNT,Lacoste,B,Pullover,2,AUTO,FKL,Crew Neck,Cable/Aran,COTTON,N
+CNT,Lacoste,C1,Pullover,3,AUTO,FKL,Crew Neck,Cable/Aran,COTTON,N
+APR,Devred SAS,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+APR,Devred SAS,B,Pullover,2,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,2,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,NeXT Business Management Services Limited,B,Pullover,1,AUTO,AJX,Crew Neck,Jersey,MERINO,Y
+CNT,NeXT Business Management Services Limited,B,Pullover,2,AUTO,AJX,Crew Neck,Jersey,MERINO,N
+CNT,NeXT Business Management Services Limited,B,Pullover,3,AUTO,AJX,Crew Neck,Jersey,MERINO,N
+APR,Devred SAS,B,Pullover,1,HF,AJX,V-Neck,Jersey,COTTON,Y
+APR,Devred SAS,B,Pullover,2,HF,AJX,V-Neck,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Lacoste,B,Pullover,1,AUTO,FKL,Crew Neck,Double bed,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,B,Pullover,2,HF,US1,Crew Neck,Tuck,COTTON,N
+CNT,Markham,B,Pullover,1,AUTO,ANS,High Crew Neck,Tuck,COTTON,Y
+APR,Markham,B,Pullover,2,AUTO,ANS,High Crew Neck,Tuck,COTTON,Y
+APR,Markham,B,Pullover,3,AUTO,ANS,High Crew Neck,Tuck,COTTON,N
+APR,Markham,B,Pullover,4,HF,US1,High Crew Neck,Tuck,COTTON,N
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,Crew Neck,Intarsia,CASHMERE,N
+CNT,Zadig & Voltaire,C1,Pullover,2,AUTO,ANS,Crew Neck,Intarsia,CASHMERE,N
+CNT,TM LEWIN,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,TM LEWIN,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL,N
+APR,TM LEWIN,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL,N
+APR,TM LEWIN,C1,Pullover,2,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marketing Trip,C1,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Plating,LAMBSWOOL_BLENDS,N
+CNT,MOSS BROS,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Lacoste,C1,Pullover,1,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,2,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,3,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,4,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+APR,Lacoste,B,Pullover,5,AUTO,FKL,Crew Neck,Jersey,MERINO,Y
+CNT,MOSS BROS,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,MERINO,N
+CNT,MOSS BROS,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,MERINO,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Not Applicable,Jersey,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Dress,1,AUTO,ANS,Cawl Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Dress,2,AUTO,ANS,Cawl Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Markham,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+APR,Markham,B,Pullover,2,HF,US1,Turtle Neck,Jersey,COTTON,Y
+APR,Markham,B,Pullover,3,HF,US1,Turtle Neck,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Marketing Trip,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,AWAY,B,Bonnet,1,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,B,Bonnet,2,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,B,Scarf,1,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,B,Scarf,2,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,AWAY,B,Scarf,3,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,Lacoste,C1,Pullover,1,AUTO,FKL,High Crew Neck,Jersey,MERINO,N
+CNT,Lacoste,C1,Pullover,2,AUTO,FKL,High Crew Neck,Jersey,MERINO,N
+APR,Lacoste,C1,Pullover,3,AUTO,FKL,High Crew Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,1,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Lacoste,B,Pullover,2,AUTO,FKL,V-Neck,Jersey,MERINO,N
+APR,Lacoste,B,Pullover,3,AUTO,FKL,V-Neck,Jersey,MERINO,N
+CNT,Marks & Spencer Plc,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,TM LEWIN,C1,Cardigan,1,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL,N
+CNT,TM LEWIN,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,LAMBSWOOL,N
+CNT,TM LEWIN,C1,Cardigan,1,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL,N
+CNT,TM LEWIN,C1,Pullover,1,AUTO,ANS,Polo Collar,Jersey,LAMBSWOOL,N
+CNT,TM LEWIN,C1,Cardigan,1,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL,N
+CNT,TM LEWIN,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,TM LEWIN,C1,Pullover,1,AUTO,ANS,Polo Collar,Jersey,LAMBSWOOL,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Stripes,COTTON_BLENDS,N
+CNT,TM LEWIN,C1,Pullover,1,AUTO,FKL,Polo Collar,Jersey,MERINO,N
+APR,TM LEWIN,C1,Pullover,2,AUTO,ANS,Polo Collar,Jersey,MERINO,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,MERINO,N
+CNT,TM LEWIN,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,TM LEWIN,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Marketing Trip,B,Mask,1,AUTO,ANS,Not Applicable,Jersey,COTTON,N
+CNT,Marketing Trip,B,Mask,2,AUTO,ANS,Not Applicable,Jersey,COTTON,N
+CNT,Marketing Trip,B,Mask,3,AUTO,ANS,Not Applicable,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,Not Applicable,Knit/purl,COTTON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Cardigan,2,AUTO,ANS,Not Applicable,Knit/purl,COTTON_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Cardigan,3,AUTO,ANS,Not Applicable,Knit/purl,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,V-Neck,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,2,AUTO,ANS,V-Neck,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Tops,1,AUTO,ANS,Not Applicable,Rib,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Tops,1,AUTO,ANS,Crew Neck,Rib,COTTON,N
+CNT,Woolworths (Pty) Ltd,C1,Tops,2,AUTO,ANS,Crew Neck,Rib,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LINEN_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Boat Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,V-Neck,Jersey,LINEN_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Cardigan,2,AUTO,ANS,V-Neck,Jersey,COTTON,N
+APR,Woolworths (Pty) Ltd,B,Cardigan,3,AUTO,ANS,V-Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,POLYESTER_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Marketing Trip,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,DIANA,B,Pullover,1,AUTO,AJX,Turtle Neck,Jersey,MERINO,N
+CNT,DIANA,B,Pullover,2,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,DIANA,B,Pullover,3,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,DIANA,B,Pullover,1,AUTO,AJX,Crew Neck,Jersey,VISCOSE_BLENDS,N
+CNT,DIANA,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,VISCOSE_BLENDS,N
+CNT,DIANA,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,VISCOSE_BLENDS,N
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,FKL,Hood,Jersey,CASHMERE,N
+CNT,DIANA,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,StandUp,Cable/Aran,ACRYLIC,N
+CNT,Marketing Trip,B,Pullover,2,AUTO,ANS,StandUp,Cable/Aran,ACRYLIC,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Boat Neck,Knit/purl,ACRYLIC,N
+CNT,Marketing Trip,B,Pullover,2,AUTO,ANS,Boat Neck,Knit/purl,ACRYLIC,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Rib,ACRYLIC,N
+CNT,Marketing Trip,B,Pullover,2,AUTO,ANS,Crew Neck,Rib,ACRYLIC,N
+CNT,CREARE,B,Mask,1,AUTO,ANS,Not Applicable,Jersey,COTTON,Y
+CNT,CREARE,B,Mask,2,AUTO,ANS,Not Applicable,Jersey,COTTON,Y
+CNT,CREARE,B,Mask,3,AUTO,ANS,Not Applicable,Jersey,COTTON,N
+CNT,DIANA,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,AJX,High Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,AJX,Crew Neck,Jacquard,MERINO_BLENDS,N
+APR,Tommy Hilfiger,C1,Pullover,2,AUTO,AJX,Turtle Neck,Jacquard,MERINO_BLENDS,N
+APR,Tommy Hilfiger,C1,Pullover,3,AUTO,AJX,Turtle Neck,Jacquard,MERINO_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,V-Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Tops,3,AUTO,ANS,V-Neck,Jersey,COTTON,N
+CNT,Cape Union Mart,B,Pullover,1,AUTO,ANS,Turtle Neck,Tuck,COTTON,N
+APR,Cape Union Mart,B,Pullover,2,AUTO,ANS,High Crew Neck,Tuck,COTTON,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Cardigan,1,AUTO,ANS,V-Neck,Jersey,COTTON,N
+APR,Woolworths (Pty) Ltd,B,Cardigan,2,AUTO,ANS,V-Neck,Jersey,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Cardigan,3,AUTO,ANS,V-Neck,Jersey,COTTON,N
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,AJX,High Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Tommy Hilfiger,C1,Cardigan,1,AUTO,AJX,V-Neck,Jacquard,MERINO_BLENDS,N
+APR,Tommy Hilfiger,C2,Cardigan,2,AUTO,AJX,V-Neck,Jacquard,NYLON_BLENDS,N
+CNT,Tommy Hilfiger,C2,Cardigan,3,AUTO,ANS,V-Neck,Jacquard,NYLON_BLENDS,N
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,FKL,Crew Neck,Double bed,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,AJX,V-Neck,Intarsia,CASHMERE,N
+CNT,Marketing Trip,B,Pullover,1,HF,AJX,Crew Neck,Stripes,CASHMERE,N
+CNT,Zadig & Voltaire,C1,Cardigan,1,AUTO,FKL,Hood,Double bed,MERINO,N
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,AJX,High Crew Neck,Jacquard,MERINO_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,AJX,Crew Neck,Stripes,CASHMERE,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,AJX,Crew Neck,Jacquard,NYLON_BLENDS,N
+CNT,RODD & GUNN,C2,Cardigan,1,AUTO,ANS,Shawl Collar,Tuck,LAMBSWOOL_BLENDS,N
+CNT,RODD & GUNN,B,Swatch,2,AUTO,ANS,Not Applicable,Tuck,LAMBSWOOL,N
+APR,RODD & GUNN,C2,Cardigan,3,AUTO,ANS,Shawl Collar,Tuck,LAMBSWOOL_BLENDS,N
+APR,RODD & GUNN,C2,Cardigan,4,AUTO,ANS,Shawl Collar,Tuck,LAMBSWOOL_BLENDS,N
+CNT,Marks & Spencer Plc,C2,Pullover,1,AUTO,ANS,GrandDad Collar,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Marks & Spencer Plc,C2,Pullover,1,HF,US1,Polo Collar,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,C1,Swatch,2,HF,US1,Not Applicable,Jersey,LAMBSWOOL,N
+APR,Marks & Spencer Plc,C1,Pullover,3,HF,US1,Polo Collar,Jersey,LAMBSWOOL,Y
+CNT,Marks & Spencer Plc,C1,Pullover,1,HF,US1,Polo Collar,Jersey,LAMBSWOOL,N
+APR,Marks & Spencer Plc,C1,Pullover,2,HF,US1,Polo Collar,Jersey,LAMBSWOOL,Y
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,LAMBSWOOL,Y
+APR,Marks & Spencer Plc,B,Pullover,2,AUTO,ANS,Crew Neck,Cable/Aran,LAMBSWOOL,Y
+CNT,Marks & Spencer Plc,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Marks & Spencer Plc,B,Pullover,2,HF,US1,Crew Neck,Jersey,LAMBSWOOL,Y
+CNT,Marks & Spencer Plc,B,Pullover,1,HF,US1,Crew Neck,Tuck,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,2,HF,US1,Crew Neck,Tuck,LAMBSWOOL,N
+APR,Marks & Spencer Plc,B,Pullover,3,HF,US1,Crew Neck,Tuck,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,2,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Marks & Spencer Plc,B,Pullover,3,HF,US1,Crew Neck,Jersey,LAMBSWOOL,Y
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Marks & Spencer Plc,B,Pullover,2,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marketing Trip,B,Pullover,1,HF,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,John Craig (Pty) Ltd,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,AJX,V-Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,John Craig (Pty) Ltd,C1,Pullover,1,HF,US1,High Crew Neck,Jersey,COTTON,N
+APR,John Craig (Pty) Ltd,C1,Pullover,2,HF,US1,High Crew Neck,Jersey,COTTON,Y
+APR,Devred SAS,B,Pullover,1,AUTO,ANS,V-Neck,Tuck,COTTON,N
+CNT,Marks & Spencer Plc,C2,Pullover,1,HF,US1,GrandDad Collar,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,C2,Cardigan,1,AUTO,ANS,High Crew Neck,Rib,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,CASHMERE,N
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,AJX,Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Markham,B,Pullover,1,AUTO,ANS,Turtle Neck,Tuck,COTTON,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,COTTON,N
+CNT,Next Retail Limited,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Next Retail Limited,B,Pullover,1,HF,AJX,Crew Neck,Jersey,COTTON,N
+CNT,John Craig (Pty) Ltd,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+APR,John Craig (Pty) Ltd,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,COTTON,Y
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,COTTON,N
+CNT,RODD & GUNN,C2,Pullover,1,AUTO,FKL,High Crew Neck,Tuck,LAMBSWOOL,N
+CNT,RODD & GUNN,C1,Pullover,2,AUTO,ANS,High Crew Neck,Tuck,LAMBSWOOL,N
+APR,RODD & GUNN,C1,Pullover,3,AUTO,ANS,High Crew Neck,Tuck,LAMBSWOOL,Y
+APR,Marks & Spencer Plc,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Marks & Spencer Plc,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,FKL,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,FKL,High Crew Neck,Stripes,ACRYLIC_BLENDS,N
+CNT,Marks & Spencer Plc,B,Cardigan,1,AUTO,ANS,Not Applicable,Jersey,ACRYLIC,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Monoprix Exploitation,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Monoprix Exploitation,B,Pullover,2,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Monoprix Exploitation,B,Pullover,3,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Monoprix Exploitation,B,Pullover,4,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Woolworths (Pty) Ltd,B,Cardigan,1,AUTO,ANS,Not Applicable,Jersey,POLYESTER_BLENDS,N
+CNT,Marks & Spencer Plc,C2,Cardigan,1,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Monoprix Exploitation,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+APR,Monoprix Exploitation,B,Pullover,2,HF,US1,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Cape Union Mart,C1,Pullover,1,AUTO,ANS,Turtle Neck,Tuck,COTTON_BLENDS,Y
+APR,Cape Union Mart,C1,Pullover,2,AUTO,ANS,Turtle Neck,Tuck,COTTON_BLENDS,Y
+CNT,Cape Union Mart,C1,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Marks & Spencer Plc,C2,Cardigan,1,AUTO,AJX,Polo Collar,Double bed,COTTON,N
+CNT,Marks & Spencer Plc,C2,Cardigan,2,AUTO,AJX,Polo Collar,Double bed,COTTON_BLENDS,N
+CNT,Marks & Spencer Plc,C2,Cardigan,1,AUTO,AJX,GrandDad Collar,Double bed,COTTON,N
+CNT,Zadig & Voltaire,B,Bonnet,1,INTA,ANS,Not Applicable,Rib,CASHMERE,N
+CNT,Zadig & Voltaire,B,Bonnet,2,INTA,ANS,Not Applicable,Rib,CASHMERE,N
+APR,Zadig & Voltaire,B,Bonnet,3,INTA,ANS,Not Applicable,Rib,CASHMERE,Y
+CNT,PVH Corporation,B,Pullover,1,AUTO,AJX,Crew Neck,Jacquard,COTTON,N
+CNT,PVH Corporation,C1,Pullover,1,AUTO,AJX,Crew Neck,Tuck,COTTON,N
+CNT,PVH Corporation,C1,Pullover,1,AUTO,AJX,High Crew Neck,Tuck,VISCOSE,N
+CNT,PVH Corporation,C1,Cardigan,1,AUTO,AJX,Polo Collar,Plating,COTTON,N
+CNT,PVH Corporation,B,Pullover,1,AUTO,ANS,Crew Neck,Lace,ACRYLIC_BLENDS,N
+CNT,PVH Corporation,B,Pullover,2,AUTO,ANS,Crew Neck,Lace,ACRYLIC_BLENDS,N
+CNT,PVH Corporation,C1,Cardigan,1,AUTO,AJX,Crew Neck,Rib,COTTON_BLENDS,N
+APR,MOSS BROS,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,Y
+APR,MOSS BROS,B,Swatch,2,AUTO,ANS,Not Applicable,Jersey,MERINO,N
+CNT,Markham,C1,Cardigan,1,AUTO,ANS,Not Applicable,Tuck,COTTON,N
+APR,Marks & Spencer Plc,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL,Y
+CNT,Marks & Spencer Plc,C2,Cardigan,1,AUTO,ANS,Polo Collar,Double bed,COTTON_BLENDS,N
+CNT,Marks & Spencer Plc,C2,Cardigan,1,AUTO,ANS,Polo Collar,Double bed,COTTON,N
+CNT,Marks & Spencer Plc,C2,Cardigan,1,AUTO,AJX,Polo Collar,Double bed,COTTON_BLENDS,N
+CNT,Marks & Spencer Plc,C2,Cardigan,2,AUTO,AJX,Polo Collar,Double bed,COTTON_BLENDS,N
+CNT,Edgars,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON,Y
+APR,Edgars,B,Pullover,2,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Edgars,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,Y
+CNT,Edgars,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON_BLENDS,Y
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,CASHMERE,N
+APR,WS Team Limited,B,Pullover,1,AUTO,AJX,Crew Neck,Jersey,COTTON,Y
+APR,WS Team Limited,B,Pullover,2,AUTO,AJX,Crew Neck,Jersey,COTTON,N
+APR,WS Team Limited,B,Pullover,3,AUTO,AJX,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,C1,Pullover,2,AUTO,ANS,Crew Neck,Jersey,ALPACA,N
+CNT,Marketing Trip,C1,Pullover,3,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,C1,Pullover,4,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,C1,Pullover,5,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Lacoste,B,Not Applicable,1,AUTO,FKL,Not Applicable,Rib,COTTON_BLENDS,N
+CNT,Lacoste,B,Not Applicable,2,AUTO,FKL,Not Applicable,Rib,COTTON_BLENDS,N
+CNT,Lacoste,B,Swatch,3,AUTO,FKL,Not Applicable,Rib,COTTON_BLENDS,N
+CNT,Lacoste,B,Not Applicable,4,AUTO,FKL,Not Applicable,Rib,COTTON_BLENDS,N
+CNT,Lacoste,B,Swatch,5,AUTO,FKL,Not Applicable,Rib,VISCOSE_BLENDS,N
+CNT,Lacoste,B,Not Applicable,6,AUTO,FKL,Not Applicable,Rib,VISCOSE_BLENDS,N
+CNT,Lion Of Porches,B,Pullover,1,AUTO,FKL,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Lacoste,B,Not Applicable,1,AUTO,FKL,Not Applicable,Jersey,COTTON,N
+CNT,Lacoste,B,Not Applicable,2,AUTO,FKL,Not Applicable,Jacquard,COTTON,N
+CNT,MOSS BROS,C2,Cardigan,1,AUTO,ANS,Hood,Jersey,CASHMERE,N
+CNT,MOSS BROS,C2,Trousers,1,AUTO,ANS,Not Applicable,Jersey,COTTON_BLENDS,N
+APR,Marks & Spencer Plc,B,Pullover,1,HF,US1,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,2,HF,US1,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Marketing Trip,B,Tops,1,AUTO,FKL,V-Neck,Jacquard,LAMBSWOOL,N
+CNT,Marketing Trip,C1,Cardigan,1,AUTO,FKL,V-Neck,Jacquard,LAMBSWOOL,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON_BLENDS,N
+APR,Edgars,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,COTTON,Y
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,MERINO_BLENDS,N
+APR,Monoprix Exploitation,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Edgars,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,Y
+APR,Edgars,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Cape Union Mart,C1,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Lacoste,C1,Not Applicable,1,AUTO,ANS,Polo Collar,Knit/purl,COTTON_BLENDS,N
+CNT,Lacoste,C1,Not Applicable,2,AUTO,ANS,Polo Collar,Knit/purl,COTTON_BLENDS,N
+CNT,Lacoste,C1,Not Applicable,3,AUTO,ANS,Polo Collar,Knit/purl,COTTON_BLENDS,N
+CNT,Lacoste,C1,Not Applicable,4,AUTO,ANS,Polo Collar,Knit/purl,COTTON_BLENDS,N
+CNT,Lacoste,B,Not Applicable,1,AUTO,FKL,Not Applicable,Knit/purl,COTTON,N
+CNT,Lacoste,B,Not Applicable,2,AUTO,ANS,Not Applicable,Knit/purl,COTTON,N
+CNT,Edgars,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,ANS,Turtle Neck,Jacquard,CASHMERE_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,AJX,Crew Neck,Cable/Aran,MERINO_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,AJX,Crew Neck,Cable/Aran,MERINO_BLENDS,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,ANS,Turtle Neck,Jacquard,CASHMERE_BLENDS,N
+CNT,Tommy Hilfiger,C2,Pullover,1,AUTO,ANS,High Crew Neck,Tuck,CASHMERE_BLENDS,N
+CNT,Tommy Hilfiger,C2,Pullover,2,AUTO,AJX,High Crew Neck,Tuck,CASHMERE_BLENDS,N
+CNT,Tommy Hilfiger,C1,Cardigan,1,AUTO,ANS,Tunisian collar,Tuck,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Djellaba,Jersey,MERINO,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,MERINO_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,MERINO,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+APR,Marks & Spencer Plc,B,Pullover,2,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+APR,Marks & Spencer Plc,B,Pullover,3,AUTO,ANS,Crew Neck,Jersey,MERINO,Y
+CNT,Marks & Spencer Plc,C1,Pullover,1,AUTO,ANS,Polo Collar,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Tops,1,AUTO,ANS,Collarless,Jersey,COTTON,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,MERINO_BLENDS,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,ANS,Crew Neck,Tuck,VISCOSE_BLENDS,N
+CNT,Next Retail Limited,C1,Pullover,1,AUTO,ANS,High Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Next Retail Limited,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,Turtle Neck,Jersey,LAMBSWOOL,N
+CNT,Tailored Brand,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,POLYESTER_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,2,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,3,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,4,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,2,HF,US1,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,C2,Cardigan,1,HF,AJX,Not Applicable,Jersey,COTTON,N
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Cardigan,2,HF,US1,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Cardigan,3,HF,US1,V-Neck,Jersey,LAMBSWOOL,N
+CNT,AWAY,C2,Pullover,1,AUTO,ANS,Hood,Jersey,CASHMERE_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Dress,1,AUTO,ANS,Square Neck,Rib,VISCOSE_BLENDS,N
+CNT,DK Company,B,Pullover,1,HF,AJX,Crew Neck,Jersey,COTTON,Y
+CNT,DK Company,B,Pullover,2,HF,AJX,Crew Neck,Jersey,COTTON,N
+CNT,DK Company,B,Pullover,3,HF,AJX,Crew Neck,Jersey,COTTON,Y
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,MERINO,Y
+CNT,Markham,B,Pullover,1,HF,US1,High Crew Neck,Jersey,COTTON,N
+APR,Markham,B,Pullover,2,HF,US1,High Crew Neck,Jersey,COTTON,N
+CNT,Monoprix Exploitation,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,C1,Cardigan,1,AUTO,AJX,V-Neck,Tuck,COTTON,N
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,Crew Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,High Crew Neck,Knit/purl,COTTON_BLENDS,N
+CNT,Tommy Hilfiger,B,Cardigan,1,AUTO,ANS,Hood,Jersey,ACRYLIC_BLENDS,N
+CNT,Tommy Hilfiger,B,Cardigan,2,AUTO,ANS,Hood,Jersey,ACRYLIC_BLENDS,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Stripes,COTTON,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,AJX,Crew Neck,Stripes,COTTON,N
+CNT,Devred SAS,C1,Pullover,3,AUTO,AJX,Crew Neck,Stripes,COTTON,N
+CNT,Devred SAS,C1,Pullover,4,AUTO,AJX,Crew Neck,Stripes,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Rib,COTTON,N
+CNT,Devred SAS,C2,Pullover,1,AUTO,AJX,Crew Neck,Tuck,COTTON,N
+CNT,Devred SAS,C2,Pullover,1,AUTO,AJX,Crew Neck,Stripes,COTTON,N
+CNT,Devred SAS,C2,Pullover,2,AUTO,AJX,Crew Neck,Stripes,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Tuck,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Double bed,COTTON,N
+APR,Devred SAS,C1,Pullover,2,AUTO,AJX,Crew Neck,Double bed,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Tuck,LAMBSWOOL_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,V-Neck,Rib,COTTON,N
+CNT,TM LEWIN,B,Pullover,1,HF,US1,V-Neck,Jersey,LAMBSWOOL,N
+CNT,PVH Corporation,C1,Pullover,1,AUTO,ANS,High Crew Neck,Rib,COTTON,N
+APR,AWAY,C2,Trousers,1,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,Woolworths (Pty) Ltd,C1,Cardigan,1,AUTO,ANS,Not Applicable,Jersey,COTTON,N
+CNT,Hackett London Menswear Company,C1,Pullover,1,AUTO,FKL,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Lacoste,C1,Cardigan,1,AUTO,FKL,High Crew Neck,Jersey,MERINO,N
+APR,Lacoste,C1,Cardigan,2,AUTO,FKL,High Crew Neck,Jersey,MERINO,N
+CNT,Marks & Spencer Plc,B,Pullover,1,HF,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Marks & Spencer Plc,B,Pullover,2,HF,FKL,Crew Neck,Jersey,LAMBSWOOL,Y
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Sacoor,C1,Pullover,1,AUTO,AJX,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Sacoor,C1,Pullover,2,AUTO,AJX,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Sacoor,C1,Pullover,3,AUTO,AJX,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Bonobo Planet,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Lacoste,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON,N
+CNT,Sacoor,B,Pullover,1,AUTO,AJX,V-Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Sacoor,B,Pullover,2,AUTO,AJX,V-Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Sacoor,B,Pullover,3,AUTO,AJX,V-Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Sacoor,B,Pullover,1,AUTO,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Sacoor,B,Pullover,2,AUTO,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Sacoor,B,Pullover,3,AUTO,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Sacoor,B,Pullover,4,AUTO,AJX,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,2,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+APR,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC_BLENDS,Y
+CNT,Marks & Spencer Plc,C1,Pullover,1,AUTO,ANS,Shawl Collar,Tuck,ACRYLIC_BLENDS,N
+CNT,Bonobo Planet,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Lacoste,C1,Pullover,1,AUTO,FKL,High Crew Neck,Jersey,COTTON,N
+CNT,Marks & Spencer Plc,C1,Pullover,1,AUTO,ANS,High Crew Neck,Tuck,LAMBSWOOL,N
+CNT,Lacoste,C1,Pullover,1,AUTO,FKL,V-Neck,Jersey,COTTON,N
+CNT,Next Retail Limited,C1,Pullover,1,HF,US1,Shawl Collar,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+APR,Lacoste,C1,Cardigan,1,AUTO,FKL,High Crew Neck,Jersey,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,C1,Cardigan,1,HF,US1,GrandDad Collar,Jersey,VISCOSE_BLENDS,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Devred SAS,C1,Cardigan,1,AUTO,ANS,GrandDad Collar,Tuck,ACRYLIC_BLENDS,N
+CNT,Devred SAS,C2,Pullover,1,AUTO,AJX,Crew Neck,Jacquard,COTTON,N
+CNT,Devred SAS,C2,Pullover,1,AUTO,ANS,Crew Neck,Rib,COTTON,N
+CNT,Bonobo Planet,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,CASHMERE_BLENDS,N
+CNT,Devred SAS,C2,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,V-Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Bonobo Planet,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,COTTON_BLENDS,N
+CNT,Zadig & Voltaire,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,CASHMERE,N
+CNT,Devred SAS,C2,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Devred SAS,C1,Cardigan,1,AUTO,ANS,Shawl Collar,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,C1,Cardigan,2,AUTO,ANS,Shawl Collar,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,1,AUTO,ANS,Turtle Neck,Tuck,ACRYLIC_BLENDS,N
+CNT,Woolworths (Pty) Ltd,B,Pullover,2,AUTO,ANS,Turtle Neck,Tuck,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,3,AUTO,ANS,Turtle Neck,Tuck,ACRYLIC_BLENDS,N
+APR,Woolworths (Pty) Ltd,B,Pullover,4,AUTO,ANS,Turtle Neck,Tuck,ACRYLIC_BLENDS,Y
+CNT,Woolovers Ltd,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,CASHMERE,N
+CNT,Woolovers Ltd,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,MERINO,N
+CNT,Woolovers Ltd,C1,Pullover,1,INTA,ANS,Crew Neck,Jersey,CASHMERE,N
+CNT,Devred SAS,B,Pullover,1,AUTO,FKL,Crew Neck,Jacquard,COTTON,N
+CNT,Woolovers Ltd,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Spitz,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,MERINO,Y
+APR,Spitz,B,Pullover,2,AUTO,ANS,V-Neck,Jersey,MERINO,N
+CNT,Spitz,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Spitz,B,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+APR,Spitz,B,Pullover,3,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Peter Millar,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Marks & Spencer Plc,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,2,HF,US1,Crew Neck,Jersey,LAMBSWOOL,Y
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON_BLENDS,N
+APR,Marks & Spencer Plc,C1,Cardigan,1,HF,US1,V-Neck,Jersey,LAMBSWOOL,Y
+CNT,Marketing Trip,B,Tops,1,AUTO,ANS,Not Applicable,Cable/Aran,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,C1,Pullover,1,HF,US1,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,C1,Cardigan,1,AUTO,ANS,Crew Neck,Cable/Aran,COTTON,N
+APR,Marks & Spencer Plc,C1,Pullover,1,HF,US1,V-Neck,Jersey,LAMBSWOOL,Y
+CNT,TM LEWIN,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LINEN_BLENDS,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Woolovers Ltd,C1,Pullover,1,AUTO,ANS,Hood,Jersey,COTTON,N
+CNT,Bonobo Planet,C1,Pullover,1,HF,US1,High Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,TM LEWIN,C2,Cardigan,1,AUTO,ANS,GrandDad Collar,Jersey,LAMBSWOOL,N
+CNT,TM LEWIN,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,C2,Cardigan,1,HF,ANS,Polo Collar,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Oui Gruppe GmbH & Co. KG,B,Pullover,1,HF,AJX,Crew Neck,Jersey,COTTON_BLENDS,Y
+CNT,Oui Gruppe GmbH & Co. KG,B,Pullover,2,HF,AJX,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Oui Gruppe GmbH & Co. KG,B,Pullover,3,HF,AJX,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,French Connection,B,Pullover,1,AUTO,ANS,Roll Edge,Jersey,ACRYLIC,N
+CNT,Devred SAS,B,Pullover,1,AUTO,FKL,Crew Neck,Jersey,COTTON,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Jersey,COTTON,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Hood,Jersey,COTTON,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,ANS,Hood,Jersey,COTTON,N
+CNT,Devred SAS,C1,Cardigan,1,AUTO,AJX,GrandDad Collar,Jersey,VISCOSE_BLENDS,N
+CNT,Devred SAS,C1,Cardigan,1,AUTO,AJX,Hood,Jersey,COTTON,N
+CNT,Devred SAS,C1,Cardigan,2,AUTO,AJX,Hood,Jersey,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Devred SAS,B,Pullover,1,AUTO,AJX,Crew Neck,Tuck,COTTON,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Turtle Neck,Cable/Aran,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,AJX,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Devred SAS,C1,Pullover,2,HF,AJX,Crew Neck,Jersey,COTTON_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,B,Pullover,2,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,ANS,High Crew Neck,Knit/purl,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,ANS,High Crew Neck,Knit/purl,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,C1,Cardigan,1,HF,US1,High Crew Neck,Tuck,LAMBSWOOL,N
+CNT,Devred SAS,C2,Cardigan,2,HF,US1,High Crew Neck,Tuck,LAMBSWOOL,N
+CNT,Devred SAS,C1,Pullover,1,AUTO,ANS,Shawl Collar,Knit/purl,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Shawl Collar,Tuck,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,C1,Pullover,2,AUTO,ANS,Shawl Collar,Knit/purl,LAMBSWOOL_BLENDS,N
+CNT,Next Retail Limited,C1,Pullover,1,HF,AJX,High Crew Neck,Tuck,POLYESTER_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Jersey,POLYESTER_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Tuck,POLYESTER_BLENDS,N
+CNT,Marketing Trip,B,Pullover,2,HF,US1,Crew Neck,Tuck,POLYESTER_BLENDS,N
+CNT,TM LEWIN,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,CASHMERE,N
+CNT,Next Retail Limited,B,Pullover,2,AUTO,ANS,V-Neck,Jersey,CASHMERE,N
+CNT,Next Retail Limited,B,Pullover,3,AUTO,ANS,V-Neck,Jersey,CASHMERE,N
+CNT,Devred SAS,B,Pullover,1,AUTO,AJX,Crew Neck,Jacquard,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,LAMBSWOOL_BLENDS,N
+CNT,Devred SAS,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,LAMBSWOOL_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,HF,FKL,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Cardigan,1,AUTO,ANS,Y-Shape Neck,Jersey,CASHMERE,N
+CNT,Next Retail Limited,B,Cardigan,2,AUTO,ANS,Y-Shape Neck,Jersey,CASHMERE,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,CASHMERE,N
+CNT,Next Retail Limited,B,Pullover,2,AUTO,ANS,Crew Neck,Jersey,CASHMERE,N
+CNT,Devred SAS,C1,Pullover,1,HF,AJX,Crew Neck,Jersey,COTTON,N
+CNT,Devred SAS,B,Pullover,1,AUTO,AJX,Crew Neck,Intarsia,COTTON,N
+CNT,Devred SAS,B,Pullover,1,AUTO,AJX,Turtle Neck,Jersey,COTTON,N
+CNT,Devred SAS,C1,Pullover,1,HF,AJX,Crew Neck,Jersey,COTTON,N
+CNT,Devred SAS,B,Pullover,1,AUTO,AJX,V-Neck,Stripes,COTTON_BLENDS,N
+CNT,Marketing Trip,C1,Pullover,1,AUTO,FKL,Polo Collar,Cable/Aran,VISCOSE_BLENDS,N
+CNT,Marks & Spencer Plc,C1,Cardigan,1,AUTO,ANS,Crew Neck,Jersey,MERINO,N
+CNT,Marks & Spencer Plc,C1,Cardigan,1,AUTO,FKL,Crew Neck,Jersey,MERINO,N
+CNT,Celio International SA,B,Bonnet,1,AUTO,FKL,Not Applicable,Jacquard,COTTON,N
+CNT,Celio International SA,B,Bonnet,1,AUTO,ANS,Not Applicable,Cable/Aran,COTTON_BLENDS,N
+CNT,Celio International SA,B,Scarf,1,AUTO,ANS,Not Applicable,Knit/purl,COTTON,N
+CNT,Celio International SA,B,Scarf,1,AUTO,FKL,Not Applicable,Jacquard,COTTON,N
+CNT,Bonobo Planet,C1,Pullover,1,AUTO,ANS,High Crew Neck,Tuck,COTTON,N
+CNT,Celio International SA,B,Bonnet,1,HF,US1,Not Applicable,Tuck,COTTON,N
+CNT,Celio International SA,B,Scarf,1,HF,US1,Not Applicable,Jersey,COCONA-POLYESTER,N
+CNT,MOSS BROS,C1,Pullover,1,AUTO,ANS,Polo Collar,Jersey,MERINO_BLENDS,N
+CNT,Celio International SA,B,Bonnet,1,HF,US1,Not Applicable,Jersey,NYLON_BLENDS,N
+CNT,MOSS BROS,B,Pullover,1,HF,US1,Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,MOSS BROS,C1,Pullover,1,AUTO,ANS,Crew Neck,Tuck,LAMBSWOOL_BLENDS,Y
+CNT,MOSS BROS,C1,Pullover,2,AUTO,ANS,Crew Neck,Tuck,LAMBSWOOL_BLENDS,N
+CNT,MOSS BROS,B,Pullover,1,HF,US1,Turtle Neck,Jersey,MERINO,N
+CNT,MOSS BROS,C1,Pullover,1,HF,US1,High Crew Neck,Jersey,LAMBSWOOL_BLENDS,Y
+CNT,Celio International SA,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON,N
+CNT,Celio International SA,B,Pullover,1,AUTO,AJX,Crew Neck,Tuck,COTTON,N
+CNT,Spitz,B,Pullover,1,AUTO,ANS,Crew Neck,Knit/purl,COTTON_BLENDS,N
+CNT,Spitz,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,COTTON,N
+CNT,Spitz,C1,Pullover,1,AUTO,ANS,Polo Collar,Knit/purl,MERINO_BLENDS,N
+CNT,Spitz,C1,Pullover,1,AUTO,ANS,Polo Collar,Knit/purl,MERINO_BLENDS,N
+CNT,Training For,C1,Pullover,1,AUTO,ANS,V-Neck,Jersey,WOOL,N
+CNT,Roots,C1,Cardigan,1,AUTO,ANS,V-Neck,Tuck,MERINO_BLENDS,N
+CNT,Spitz,C1,Pullover,1,INTA,ANS,Shawl Collar,Tuck,MERINO_BLENDS,N
+CNT,Spitz,B,Pullover,1,AUTO,ANS,Turtle Neck,Tuck,MERINO_BLENDS,N
+CNT,Roots,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,CASHMERE_BLENDS,N
+CNT,Roots,C1,Trousers,1,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,Cape Union Mart,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,AJX,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,AJX,Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,AJX,Crew Neck,Tuck,COTTON,N
+CNT,Cape Union Mart,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,Cape Union Mart,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Roots,B,Bonnet,1,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,Roots,B,Bonnet,2,AUTO,ANS,Not Applicable,Jersey,CASHMERE,N
+CNT,Training For,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,COTTON,N
+CNT,Celio International SA,C1,Pullover,1,AUTO,AJX,High Crew Neck,Intarsia,COTTON,N
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Training For,B,Pullover,1,AUTO,ANS,Col Camionneur,Jersey,WOOL,N
+CNT,Roots,B,Scarf,1,AUTO,ANS,Not Applicable,Rib,CASHMERE_BLENDS,N
+CNT,Roots,B,Scarf,2,AUTO,ANS,Not Applicable,Rib,CASHMERE,N
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,ANS,V-Neck,Jacquard,COTTON_BLENDS,N
+CNT,Tommy Hilfiger,C1,Pullover,2,AUTO,ANS,V-Neck,Jacquard,COTTON_BLENDS,N
+APR,RODD & GUNN,B,Pullover,1,AUTO,ANS,High Crew Neck,Tuck,LAMBSWOOL,N
+CNT,Tommy Hilfiger,C1,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,COTTON_BLENDS,N
+CNT,DIANA,C1,Pullover,1,AUTO,ANS,Polo Collar,Jersey,COTTON,N
+CNT,Roots,B,Not Applicable,1,AUTO,ANS,Not Applicable,Rib,CASHMERE_BLENDS,N
+CNT,Roots,B,Not Applicable,2,AUTO,ANS,Not Applicable,Rib,CASHMERE,N
+CNT,TM LEWIN,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Roots,B,Gloves,1,AUTO,ANS,Not Applicable,Jersey,CASHMERE_BLENDS,N
+CNT,Roots,B,Gloves,2,AUTO,ANS,Not Applicable,Jersey,CASHMERE,N
+CNT,Training For,C2,Pullover,1,AUTO,ANS,Crew Neck with Hood,Jersey,COTTON,N
+CNT,RODD & GUNN,C1,Pullover,1,AUTO,ANS,Shawl Collar,Tuck,LAMBSWOOL_BLENDS,N
+CNT,Roots,B,Bonnet,1,AUTO,ANS,Not Applicable,Rib,CASHMERE,N
+CNT,RODD & GUNN,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,RODD & GUNN,C2,Cardigan,1,AUTO,ANS,Shawl Collar,Tuck,LAMBSWOOL_BLENDS,Y
+CNT,RODD & GUNN,C1,Pullover,1,AUTO,ANS,Polo Collar,Jersey,WOOL,N
+CNT,Roots,B,Gloves,1,AUTO,ANS,Not Applicable,Jersey,CASHMERE,N
+CNT,Roots,B,Not Applicable,1,AUTO,ANS,Not Applicable,Jersey,CASHMERE,N
+CNT,Roots,B,Not Applicable,1,AUTO,ANS,Not Applicable,Jersey,CASHMERE,N
+CNT,Roots,B,Not Applicable,2,AUTO,ANS,Not Applicable,Jersey,CASHMERE,N
+CNT,Training For,C1,Pullover,1,AUTO,ANS,Hood,Jersey,WOOL,N
+CNT,Marketing Trip,B,Pullover,1,HF,AJX,Crew Neck,Tuck,POLYESTER_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,HF,AJX,Crew Neck,Jersey,POLYESTER_BLENDS,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Stripes,COTTON,N
+CNT,DIANA,C1,Cardigan,1,AUTO,ANS,Polo Collar,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,AJX,Crew Neck,Jersey,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,AUTO,AJX,Crew Neck,Tuck,COTTON,N
+CNT,Marketing Trip,B,Pullover,1,HF,US1,Crew Neck,Jersey,CASHMERE,N
+APR,The House Of Bruar,B,Pullover,1,HF,ANS,Crew Neck,Jersey,LAMBSWOOL,Y
+APR,The House Of Bruar,B,Pullover,1,HF,ANS,V-Neck,Jersey,LAMBSWOOL,Y
+APR,The House Of Bruar,B,Pullover,1,HF,ANS,Turtle Neck,Jersey,LAMBSWOOL,Y
+APR,The House Of Bruar,B,Cardigan,1,HF,ANS,Crew Neck,Jersey,LAMBSWOOL,Y
+APR,The House Of Bruar,B,Pullover,1,HF,ANS,V-Neck,Jersey,LAMBSWOOL,Y
+APR,The House Of Bruar,B,Cardigan,1,AUTO,ANS,V-Neck,Cable/Aran,LAMBSWOOL,Y
+CNT,French Connection,B,Pullover,1,AUTO,ANS,Crew Neck,Jersey,ACRYLIC,N
+CNT,French Connection,B,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,ACRYLIC,N
+CNT,Cape Union Mart,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Cape Union Mart,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Cape Union Mart,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,MERINO_BLENDS,N
+CNT,Cape Union Mart,C2,Pullover,1,AUTO,ANS,Hood,Jersey,MERINO_BLENDS,N
+CNT,LILY & ME,B,Pullover,1,HF,AJX,Crew Neck,Jersey,ACRYLIC_BLENDS,Y
+CNT,LILY & ME,B,Pullover,2,HF,AJX,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,LILY & ME,B,Pullover,3,HF,AJX,Crew Neck,Jersey,ACRYLIC_BLENDS,N
+CNT,MOSS BROS,B,Pullover,1,AUTO,ANS,Turtle Neck,Jersey,MERINO,N
+CNT,RODD & GUNN,B,Pullover,1,AUTO,ANS,StandUp,Tuck,LAMBSWOOL,Y
+APR,The House Of Bruar,B,Cardigan,1,HF,ANS,V-Neck,Jersey,LAMBSWOOL,N
+APR,The House Of Bruar,B,Pullover,1,HF,ANS,High Crew Neck,Jersey,LAMBSWOOL,Y
+APR,The House Of Bruar,B,Pullover,1,HF,ANS,Crew Neck,Jersey,LAMBSWOOL,Y
+APR,The House Of Bruar,B,Pullover,1,HF,ANS,V-Neck,Jersey,LAMBSWOOL,Y
+APR,The House Of Bruar,B,Pullover,1,HF,ANS,V-Neck,Jersey,LAMBSWOOL,Y
+APR,The House Of Bruar,B,Cardigan,1,HF,ANS,V-Neck,Jersey,LAMBSWOOL,Y
+APR,The House Of Bruar,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,LAMBSWOOL,Y
+APR,The House Of Bruar,B,Pullover,1,HF,ANS,High Crew Neck,Jersey,LAMBSWOOL,Y
+APR,The House Of Bruar,B,Cardigan,1,HF,ANS,High Crew Neck,Jersey,LAMBSWOOL,Y
+APR,The House Of Bruar,B,Cardigan,1,HF,ANS,High Crew Neck,Jersey,LAMBSWOOL,Y
+CNT,MOSS BROS,B,Bonnet,1,AUTO,ANS,Not Applicable,Tuck,LAMBSWOOL,Y
+CNT,MOSS BROS,B,Scarf,1,AUTO,ANS,Not Applicable,Tuck,LAMBSWOOL,Y
+CNT,Lacoste,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON_BLENDS,N
+CNT,Lacoste,C1,Pullover,1,AUTO,FKL,Polo Collar,Lace,COTTON,N
+CNT,Lacoste,C1,Pullover,2,AUTO,FKL,Polo Collar,Lace,COTTON,N
+CNT,Lacoste,C1,Pullover,3,AUTO,FKL,Polo Collar,Lace,COTTON,N
+CNT,Lacoste,B,Tops,1,AUTO,FKL,Crew Neck,Lace,COTTON,N
+CNT,Lacoste,B,Tops,2,AUTO,FKL,Crew Neck,Lace,COTTON,N
+CNT,Lacoste,C1,Swatch,1,AUTO,ANS,Crew Neck,Jacquard,COTTON_BLENDS,N
+CNT,Bonobo Planet,B,Pullover,1,AUTO,ANS,Turtle Neck,Knit/purl,COTTON_BLENDS,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,WOOL_BLENDS,N
+CNT,TM LEWIN,C1,Cardigan,1,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,ANS,High Crew Neck,Jacquard,WOOL_BLENDS,N
+CNT,Tommy Hilfiger,B,Pullover,1,AUTO,ANS,V-Neck,Jacquard,WOOL_BLENDS,N
+CNT,Tommy Hilfiger,B,Trousers,1,AUTO,ANS,Not Applicable,Jacquard,WOOL_BLENDS,N
+CNT,Tommy Hilfiger,B,Trousers,2,AUTO,ANS,Not Applicable,Jacquard,WOOL_BLENDS,N
+APR,Markham,B,Pullover,1,AUTO,ANS,Crew Neck,Tuck,COTTON,Y
+CNT,Lacoste,C1,Pullover,1,AUTO,ANS,Crew Neck,Jacquard,COTTON_BLENDS,N
+CNT,Tailored Brand,C1,Pullover,1,AUTO,ANS,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Tailored Brand,C2,Cardigan,1,AUTO,ANS,Shawl Collar,Tuck,LAMBSWOOL_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,HF,US1,Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,C1,Pullover,1,HF,AJX,High Crew Neck,Jersey,POLYESTER_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,Crew Neck,Cable/Aran,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,C2,Pullover,1,AUTO,ANS,GrandDad Collar,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,C1,Pullover,1,HF,US1,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,C1,Pullover,1,AUTO,ANS,High Crew Neck,Knit/purl,LAMBSWOOL,N
+CNT,Marks & Spencer Plc,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,LAMBSWOOL_BLENDS,N
+CNT,Next Retail Limited,C1,Pullover,1,HF,US1,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,C1,Pullover,2,HF,US1,V-Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,C1,Pullover,1,HF,US1,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Next Retail Limited,C1,Pullover,2,HF,US1,High Crew Neck,Jersey,LAMBSWOOL,N
+CNT,Stockomani,B,Pullover,1,AUTO,AJX,Crew Neck,Tuck,COTTON,N
+CNT,Stockomani,B,Pullover,1,AUTO,AJX,Crew Neck,Tuck,COTTON,N
+CNT,Stockomani,B,Pullover,1,HF,AJX,Crew Neck,Jersey,CASHMERE,N
+CNT,Stockomani,C1,Pullover,1,HF,AJX,High Crew Neck,Jersey,CASHMERE,N
+CNT,Stockomani,B,Pullover,1,HF,AJX,V-Neck,Jersey,CASHMERE,N
+CNT,Stockomani,B,Pullover,1,HF,AJX,Turtle Neck,Jersey,CASHMERE,N
+CNT,Stockomani,B,Pullover,1,HF,AJX,Boat Neck,Jersey,CASHMERE,N
+CNT,Stockomani,B,Pullover,1,HF,AJX,V-Neck,Jersey,CASHMERE,N
+CNT,Sandro,B,Pullover,1,HF,US1,Crew Neck,Jersey,CASHMERE,N
+CNT,Next Retail Limited,C1,Trousers,1,AUTO,ANS,Not Applicable,Jersey,MERINO_BLENDS,N
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,FKL,Crew Neck,Double bed,WOOL_BLENDS,N
+CNT,Lacoste,B,Pullover,1,AUTO,FKL,Crew Neck,Tuck,COTTON_BLENDS,N
+CNT,Next Retail Limited,B,Pullover,1,AUTO,ANS,Hood,Jersey,MERINO_BLENDS,N
+APR,Lacoste,B,Pullover,1,AUTO,ANS,V-Neck,Jersey,WOOL,N
+CNT,Next Retail Limited,C2,Cardigan,1,AUTO,FKL,Y-Shape Neck,Jersey,MERINO_BLENDS,N
+CNT,Zadig & Voltaire,C1,Pullover,1,AUTO,ANS,Crew Neck,Double bed,COTTON,N
